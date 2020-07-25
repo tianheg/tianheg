@@ -9,24 +9,9 @@
 ```javascript
 const Gaotianhe = {
     pronouns: "yidajiabei" | "he",
-    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+    code: [Javascript, HTML, CSS],
     challenge: "I am doing the #100DaysOfCode challenge focused on HTML and CSS and JavaScirpt"
 }
 ```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<!-- 
-
-tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-architecture: ["microservices", "event-driven", "design system pattern"],
-techCommunities: {
-                    coorganizer: "AfroPython",
-                    speaker: "Latinity",
-                    mentor: "RailsGirls POA"
-                    }, -->
-
-## Find me around the web 🌎:
-- My site: [yidajiabei.xyz](https://www.yidajiabei.xyz/en/)
-- freeCodeCamp: [yidajiabei](https://www.freecodecamp.org/yidajiabei)
-
