@@ -1,13 +1,8 @@
 # Hi, I'm Gaotianhe 👋👨‍💻
 
 <img src="https://raw.githubusercontent.com/Gaotianhe/Gaotianhe/master/img/100DaysOfCode.png" alt="banner that says one thing is about #100DaysOfCode">
-I'm a beginner of code. I'm challenging <a href="https://www.100daysofcode.com/">#100DaysOfCode</a>. You can see my daily process in
-<br>
-<center>
-<a href="https://github.com/Gaotianhe/100-days-of-code" target="_blank">
-  <img src="https://raw.githubusercontent.com/Gaotianhe/Gaotianhe/master/img/100DaysOfCode-repo.jpg" />
-</a>
-</center>
+I'm a beginner of code. I'm challenging <a href="https://www.100daysofcode.com/">#100DaysOfCode</a>. You can see my daily process in <a href="https://github.com/Gaotianhe/100-days-of-code" target="_blank">100 days of code
+</a> repo.
 
 ## Find me around the web 🌎:
 - My site: [yidajiabei.xyz](https://www.yidajiabei.xyz/en/)
