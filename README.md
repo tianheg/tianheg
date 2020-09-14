@@ -1,4 +1,4 @@
-<h2>Hi, I'm Jimgao 👋👨‍💻</h2>
+<h2>Hi, I'm Jimgao 👋💻</h2>
 
 <p><em>I'm a beginner of code. I'm challenging <a href="https://www.100daysofcode.com/">#100DaysOfCode Official Website </a>. You can see my daily process in <a href="https://github.com/Gaotianhe/100-days-of-code">100 Days Of Code</a> repo.</em></p>
 
