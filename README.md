@@ -23,7 +23,7 @@ Below repos are offten used, be free 🤪
 | [ideas](https://github.com/Gaotianhe/ideas) | 记录某些思想绽放的瞬间 |
 | [CHANGELOG](https://github.com/Gaotianhe/CHANGELOG) | 写日记的地方，记录下自己的进步激励自己 |
 | [wiki-docs](https://github.com/Gaotianhe/wiki-docs) | 作为自己的 wiki 知识库 |
-| [cheatsheets](https://github.com/Gaotianhe/cheatsheets) | 不同语言框架工具的的小贴士 |
+| [cheatsheets](https://github.com/Gaotianhe/cheatsheets) | 不同语言框架工具的小贴士 |
 | [linux-command](https://github.com/Gaotianhe/linux-command) | Linux 指令详解 |
 | [site](https://github.com/Gaotianhe/site) | 收集的各种站点（编程技术类为主） |
 | [dotfiles](https://github.com/Gaotianhe/dotfiles) | `.*`类型文件的集中存放地 |
