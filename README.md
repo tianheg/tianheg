@@ -16,7 +16,7 @@ const Jimgao = {
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-Below repos are offten used, be free 🤪
+Below repos are often used, be free 🤪
 
 | Repo | Use |
 | ----- | ----- |
@@ -31,3 +31,15 @@ Below repos are offten used, be free 🤪
 | [knowledgebase](https://github.com/Gaotianhe/knowledgebase) | 使用 [foam](https://github.com/foambubble/foam) 制作的知识库网络 |
 | [Poems](https://github.com/Gaotianhe/Poems) | 诗歌 |
 | [docker-docs](https://github.com/Gaotianhe/docker-docs) | 从官网复制的文档，制作自己的文档站点 |
+
+Below sites are often used, be free 🤪
+
+| Name | Url |
+| ----- | ----- |
+| Sites | https://gaotianhe.github.io/site/ |
+| Wakatime | https://wakatime.com/dashboard |
+| CHANGELOG | https://gaotianhe.github.io/CHANGELOG/ |
+| Cheatsheets | https://gaotianhe.github.io/cheatsheets/ |
+| Linux Command | https://gaotianhe.github.io/linux-command/ |
+| Knowledgebase | https://gaotianhe.github.io/knowledgebase/ |
+| Docker Docs | https://gaotianhe.github.io/docker-docs/ |
