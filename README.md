@@ -21,6 +21,7 @@ Below repos are often used, be free 🤪
 | [ideas](https://github.com/Gaotianhe/ideas) | 记录某些思想绽放的瞬间 |
 | [CHANGELOG](https://github.com/Gaotianhe/CHANGELOG) | 写日记的地方，记录下自己的进步激励自己 |
 | [Coding](https://github.com/Gaotianhe/coding) | 记录自己每天的编程点滴 |
+| [English](https://github.com/Gaotianhe/English) | 学习英语 |
 | [wiki-docs](https://github.com/Gaotianhe/wiki-docs) | 作为自己的 wiki 知识库 |
 | [cheatsheets](https://github.com/Gaotianhe/cheatsheets) | 不同语言框架工具的小贴士 |
 | [linux-command](https://github.com/Gaotianhe/linux-command) | Linux 指令详解 |
@@ -36,6 +37,7 @@ Below sites are often used, be free 🤪
 | Name | Url |
 | ----- | ----- |
 | Coding | https://gaotianhe.github.io/coding/ |
+| English words | https://gaotianhe.github.io/English/ |
 | Sites | https://gaotianhe.github.io/site/ |
 | Wakatime | https://wakatime.com/dashboard |
 | CHANGELOG | https://gaotianhe.github.io/CHANGELOG/ |
