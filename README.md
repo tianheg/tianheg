@@ -19,6 +19,7 @@ Below repos are often used, be free 🤪
 | Repo | Use |
 | ----- | ----- |
 | [ideas](https://github.com/Gaotianhe/ideas) | 记录某些思想绽放的瞬间 |
+| [yidajiabei.xyz](https://github.com/yidajiabei/yidajiabei.xyz) | 博客源码 |
 | [CHANGELOG](https://github.com/Gaotianhe/CHANGELOG) | 写日记的地方，记录下自己的进步激励自己 |
 | [Coding](https://github.com/Gaotianhe/coding) | 记录自己每天的编程点滴 |
 | [English](https://github.com/Gaotianhe/English) | 学习英语 |
@@ -36,6 +37,7 @@ Below sites are often used, be free 🤪
 
 | Name | Url |
 | ----- | ----- |
+| Blog | https://www.yidajiabei.xyz |
 | Coding | https://gaotianhe.github.io/coding/ |
 | English words | https://gaotianhe.github.io/English/ |
 | Sites | https://gaotianhe.github.io/site/ |
