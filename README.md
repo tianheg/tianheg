@@ -38,11 +38,11 @@ Below sites are often used, be free 🤪
 | Name | Url |
 | ----- | ----- |
 | Blog | https://www.yidajiabei.xyz |
+| CHANGELOG | https://gaotianhe.github.io/CHANGELOG/ |
 | Coding | https://gaotianhe.github.io/coding/ |
 | English words | https://gaotianhe.github.io/English/ |
 | Sites | https://gaotianhe.github.io/site/ |
 | Wakatime | https://wakatime.com/dashboard |
-| CHANGELOG | https://gaotianhe.github.io/CHANGELOG/ |
 | Cheatsheets | https://gaotianhe.github.io/cheatsheets/ |
 | Linux Command | https://gaotianhe.github.io/linux-command/ |
 | Knowledgebase | https://gaotianhe.github.io/knowledgebase/ |
