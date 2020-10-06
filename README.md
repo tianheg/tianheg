@@ -5,8 +5,7 @@
 ```javascript
 const Jimgao = {
     pronouns: "Jimgao" | "he",
-    code: [Javascript, HTML, CSS],
-    challenge: "I am doing the #100DaysOfCode challenge focused on HTML and CSS and JavaScirpt"
+    code: [Python, Javascript, HTML, CSS]
 }
 ```
 
@@ -18,7 +17,7 @@ Below repos are often used, be free 🤪
 
 | Repo | Use |
 | ----- | ----- |
-| [CHANGELOG](https://github.com/Gaotianhe/CHANGELOG) | 写日记的地方，记录下自己的进步激励自己 |
+| [Changelog](https://github.com/Gaotianhe/Changelog) | 写日记的地方，记录下自己的进步激励自己 |
 | [ideas](https://github.com/Gaotianhe/ideas) | 记录某些思想绽放的瞬间 |
 | [yidajiabei.xyz](https://github.com/yidajiabei/yidajiabei.xyz) | 博客源码 |
 | [Coding](https://github.com/Gaotianhe/coding) | 记录自己每天的编程点滴 |
@@ -38,12 +37,12 @@ Below sites are often used, be free 🤪
 | Name | Url |
 | ----- | ----- |
 | Blog | https://www.yidajiabei.xyz |
-| CHANGELOG | https://gaotianhe.github.io/CHANGELOG/ |
-| Coding | https://gaotianhe.github.io/coding/ |
-| English words | https://gaotianhe.github.io/English/ |
-| Sites | https://gaotianhe.github.io/site/ |
+| Changelog | https://gaotianhe.github.io/Changelog |
+| Coding | https://gaotianhe.github.io/coding |
+| English words | https://gaotianhe.github.io/English |
+| Sites | https://gaotianhe.github.io/site |
 | Wakatime | https://wakatime.com/dashboard |
-| Cheatsheets | https://gaotianhe.github.io/cheatsheets/ |
-| Linux Command | https://gaotianhe.github.io/linux-command/ |
-| Knowledgebase | https://gaotianhe.github.io/knowledgebase/ |
-| Docker Docs | https://gaotianhe.github.io/docker-docs/ |
+| Cheatsheets | https://gaotianhe.github.io/cheatsheets |
+| Linux Command | https://gaotianhe.github.io/linux-command |
+| Knowledgebase | https://gaotianhe.github.io/knowledgebase |
+| Docker Docs | https://gaotianhe.github.io/docker-docs |
