@@ -21,7 +21,7 @@ Below repos are often used, be free 🤪
 | [ideas](https://github.com/Gaotianhe/ideas) | 记录某些思想绽放的瞬间 |
 | [yidajiabei.xyz](https://github.com/yidajiabei/yidajiabei.xyz) | 博客源码 |
 | [Coding](https://github.com/Gaotianhe/coding) | 记录自己每天的编程点滴 |
-| [book](https://github.com/Gaotianhe/book) | 读书笔记 |
+| [book-notes](https://github.com/Gaotianhe/book-notes) | 读书笔记 |
 | [English](https://github.com/Gaotianhe/English) | 学习英语 |
 | [wiki-docs](https://github.com/Gaotianhe/wiki-docs) | 作为自己的 wiki 知识库 |
 | [cheatsheets](https://github.com/Gaotianhe/cheatsheets) | 不同语言框架工具的小贴士 |
