@@ -16,6 +16,7 @@ const Jimgao = {
 Below repos are often used, be free 🤪
 
 - [Changelog](https://github.com/Gaotianhe/Changelog)
+- [self-watching](https://github.com/Gaotianhe/self-watching)
 - [wiki-docs](https://github.com/Gaotianhe/wiki-docs)
 - [Coding](https://github.com/Gaotianhe/coding)
 - [yidajiabei.xyz](https://github.com/yidajiabei/yidajiabei.xyz)
