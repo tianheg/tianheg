@@ -15,22 +15,25 @@ const Jimgao = {
 
 Below repos are often used, be free 🤪
 
-| &nbsp; | &nbsp; |
-| ----- | ----- |
-| [Changelog](https://github.com/Gaotianhe/Changelog) | [ideas](https://github.com/Gaotianhe/ideas) |
-| [yidajiabei.xyz](https://github.com/yidajiabei/yidajiabei.xyz) | [Coding](https://github.com/Gaotianhe/coding) |
-| [English](https://github.com/Gaotianhe/English) | [wiki-docs](https://github.com/Gaotianhe/wiki-docs) |
-| [cheatsheets](https://github.com/Gaotianhe/cheatsheets) | [linux-command](https://github.com/Gaotianhe/linux-command) |
-| [site](https://github.com/Gaotianhe/site) | [dotfiles](https://github.com/Gaotianhe/dotfiles) |
-| [comments](https://github.com/Gaotianhe/comments) | [knowledgebase](https://github.com/Gaotianhe/knowledgebase) |
-| [docker-docs](https://github.com/Gaotianhe/docker-docs) | |
+- [Changelog](https://github.com/Gaotianhe/Changelog)
+- [wiki-docs](https://github.com/Gaotianhe/wiki-docs)
+- [Coding](https://github.com/Gaotianhe/coding)
+- [yidajiabei.xyz](https://github.com/yidajiabei/yidajiabei.xyz)
+- [English](https://github.com/Gaotianhe/English)
+- [site](https://github.com/Gaotianhe/site)
+- [dotfiles](https://github.com/Gaotianhe/dotfiles)
+- [knowledgebase](https://github.com/Gaotianhe/knowledgebase)
+- [docker-docs](https://github.com/Gaotianhe/docker-docs)
 
 Below sites are often used, be free 🤪
 
-| &nbsp; | &nbsp; |
-| ----- | ----- |
-| [Blog](https://www.yidajiabei.xyz) | [Changelog](https://gaotianhe.github.io/Changelog) |
-| [Coding](https://gaotianhe.github.io/coding) | [English words](https://gaotianhe.github.io/English) |
-| [Sites](https://gaotianhe.github.io/site) | [Wakatime](https://wakatime.com/dashboard) |
-| [Cheatsheets](https://gaotianhe.github.io/cheatsheets) | [Linux Command](https://gaotianhe.github.io/linux-command) |
-| [Knowledgebase](https://gaotianhe.github.io/knowledgebase) | [Docker Docs](https://gaotianhe.github.io/docker-docs) |
+- [Blog](https://www.yidajiabei.xyz)
+- [Changelog](https://gaotianhe.github.io/Changelog)
+- [Coding](https://gaotianhe.github.io/coding)
+- [English words](https://gaotianhe.github.io/English)
+- [Knowledgebase](https://gaotianhe.github.io/knowledgebase)
+- [Sites](https://gaotianhe.github.io/site)
+- [Wakatime](https://wakatime.com/dashboard)
+- [Cheatsheets](https://gaotianhe.github.io/cheatsheets)
+- [Linux Command](https://gaotianhe.github.io/linux-command)
+- [Docker Docs](https://gaotianhe.github.io/docker-docs) |
