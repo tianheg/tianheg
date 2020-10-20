@@ -36,4 +36,4 @@ Below sites are often used, be free 🤪
 - [Wakatime](https://wakatime.com/dashboard)
 - [Cheatsheets](https://gaotianhe.github.io/cheatsheets)
 - [Linux Command](https://gaotianhe.github.io/linux-command)
-- [Docker Docs](https://gaotianhe.github.io/docker-docs) |
+- [Docker Docs](https://gaotianhe.github.io/docker-docs)
