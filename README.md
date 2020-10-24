@@ -3,12 +3,11 @@
 
 ---
 
-年度余额    ████████████████████████▁▁▁▁▁▁   81.19 %
+年度余额    ████████████████████████▁▁▁▁▁▁   81.20 %
 
 ---
 
-![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=tianheg.tianheg)
-![GitHub followers](https://img.shields.io/github/followers/tianheg?label=Follow&style=social)
+![GitHub visiters](https://komarev.com/ghpvc/?username=tianheg) &bull; ![GitHub followers](https://img.shields.io/github/followers/tianheg?label=Follow&style=social)
 
 ---
 
@@ -52,4 +51,4 @@ Below sites are often used, be free 🤪
 
 ---
 
-⏰ Updated on Sat, 24 Oct 2020 03:53:44 GMT
+⏰ Updated on Sat, 24 Oct 2020 04:20:08 GMT
