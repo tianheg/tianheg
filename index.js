@@ -60,6 +60,7 @@ Below sites are often used, be free 🤪
 - [English words](https://gaotianhe.github.io/English)
 - [Knowledgebase](https://gaotianhe.github.io/knowledgebase)
 - [Sites](https://gaotianhe.github.io/site)
+- [Travis CI](https://travis-ci.com/dashboard)
 - [Wakatime](https://wakatime.com/dashboard)
 - [Cheatsheets](https://gaotianhe.github.io/cheatsheets)
 - [Linux Command](https://gaotianhe.github.io/linux-command)
