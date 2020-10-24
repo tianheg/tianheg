@@ -1,13 +1,24 @@
+
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
+
+---
+
+年度余额    ████████████████████████▁▁▁▁▁▁   81.19 %
+
+---
+
+![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=tianheg.tianheg)
+![GitHub followers](https://img.shields.io/github/followers/tianheg?label=Follow&style=social)
+
+---
 
 ### A little more about me...
 
-```javascript
-const Jimgao = {
-    pronouns: "Jimgao" | "he",
-    code: [Python, Javascript, HTML, CSS]
-}
-```
+    const Jimgao = {
+        pronouns: "Jimgao" | "he",
+        code: [Python, Javascript, HTML, CSS]
+    }
+
 
 ![Jimgao's github stats](https://github-readme-stats-yidajiabei.vercel.app/api?username=tianheg&show_icons=true)
 
@@ -38,3 +49,7 @@ Below sites are often used, be free 🤪
 - [Cheatsheets](https://gaotianhe.github.io/cheatsheets)
 - [Linux Command](https://gaotianhe.github.io/linux-command)
 - [Docker Docs](https://gaotianhe.github.io/docker-docs)
+
+---
+
+⏰ Updated on Sat, 24 Oct 2020 03:50:25 GMT
