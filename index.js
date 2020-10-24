@@ -23,8 +23,7 @@ const readme = `
 
 ---
 
-![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=tianheg)
-![GitHub followers](https://img.shields.io/github/followers/tianheg?label=Follow&style=social)
+![GitHub visiters](https://komarev.com/ghpvc/?username=tianheg) &bull; ![GitHub followers](https://img.shields.io/github/followers/tianheg?label=Follow&style=social)
 
 ---
 
