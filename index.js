@@ -30,12 +30,11 @@ const readme = `
 
 ### A little more about me...
 
-```
-const Jimgao = {
-    pronouns: "Jimgao" | "he",
-    code: [Python, Javascript, HTML, CSS]
-}
-```
+    const Jimgao = {
+        pronouns: "Jimgao" | "he",
+        code: [Python, Javascript, HTML, CSS]
+    }
+
 
 ![Jimgao's github stats](https://github-readme-stats-yidajiabei.vercel.app/api?username=tianheg&show_icons=true)
 
