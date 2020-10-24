@@ -30,7 +30,7 @@ const readme = `
 
 ### A little more about me...
 
-```javascript
+```
 const Jimgao = {
     pronouns: "Jimgao" | "he",
     code: [Python, Javascript, HTML, CSS]
