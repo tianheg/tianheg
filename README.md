@@ -3,7 +3,7 @@
 
 ---
 
-年度余额    ████████████████████████▁▁▁▁▁▁   81.22 %
+年度余额    ████████████████████████▁▁▁▁▁▁   81.29 %
 
 ---
 
@@ -44,6 +44,7 @@ Below sites are often used, be free 🤪
 - [English words](https://gaotianhe.github.io/English)
 - [Knowledgebase](https://gaotianhe.github.io/knowledgebase)
 - [Sites](https://gaotianhe.github.io/site)
+- [Gitmemory](https://www.gitmemory.com/tianheg)
 - [Travis CI](https://travis-ci.com/dashboard)
 - [Wakatime](https://wakatime.com/dashboard)
 - [Cheatsheets](https://gaotianhe.github.io/cheatsheets)
@@ -52,4 +53,4 @@ Below sites are often used, be free 🤪
 
 ---
 
-⏰ Updated on Sat, 24 Oct 2020 06:07:38 GMT
+⏰ Updated on Sat, 24 Oct 2020 12:09:08 GMT
