@@ -35,6 +35,7 @@ Below repos are often used, be free 🤪
 - [dotfiles](https://github.com/tianheg/dotfiles)
 - [knowledgebase](https://github.com/tianheg/knowledgebase)
 - [docker-docs](https://github.com/tianheg/docker-docs)
+- [traffic-badge](https://github.com/tianheg/traffic-badge)
 
 Below sites are often used, be free 🤪
 
@@ -53,4 +54,4 @@ Below sites are often used, be free 🤪
 
 ---
 
-⏰ Updated on Tue, 27 Oct 2020 06:08:17 GMT
+⏰ Updated on Tue, 27 Oct 2020 06:13:56 GMT
