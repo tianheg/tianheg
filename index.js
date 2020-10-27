@@ -41,6 +41,7 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 Below repos are often used, be free 🤪
 
+- [portfolio-vue](https://github.com/tianheg/portfolio-vue)
 - [Changelog](https://github.com/tianheg/Changelog)
 - [self-watching](https://github.com/tianheg/self-watching)
 - [wiki-docs](https://github.com/tianheg/wiki-docs)
@@ -55,7 +56,8 @@ Below repos are often used, be free 🤪
 
 Below sites are often used, be free 🤪
 
-- [Blog](https://www.yidajiabei.xyz)
+- [portfolio](https://github.com/tianheg/portfolio-vue)
+- [Blog](https://blog.yidajiabei.xyz)
 - [Changelog](https://tianheg.github.io/Changelog)
 - [Coding](https://tianheg.github.io/coding)
 - [English words](https://tianheg.github.io/English)
