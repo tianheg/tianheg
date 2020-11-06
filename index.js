@@ -24,8 +24,6 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 - 📫 Email me at: [yidajiabei@gmail.com](mailto:yidajiabei@gmail.com)
 - 💰 Support my work on [爱发电](https://afdian.net/@yidajiabei)!
 
-![Jimgao's github stats](https://github-readme-stats-yidajiabei.vercel.app/api?username=tianheg&show_icons=true)
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
