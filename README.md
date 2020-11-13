@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ██████████████████████████▁▁▁▁   86.68 %
+Annual balance    ██████████████████████████▁▁▁▁   86.75 %
 
 - ⚡ JavaScript / Python . Vue.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg) and also [Keybase](https://keybase.io/yidajiabei/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tianheg/1ce40c3e06eddab6bc72b87cc26ec067).
@@ -12,4 +12,4 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 13 Nov 2020 06:06:01 GMT
+⏰ Updated on Fri, 13 Nov 2020 12:06:31 GMT
