@@ -19,6 +19,8 @@ const readme = `
 
 Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(2)} %
 
+<img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
+
 - ⚡ JavaScript / Python . Vue.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg) and also [Keybase](https://keybase.io/yidajiabei/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tianheg/1ce40c3e06eddab6bc72b87cc26ec067).
 - 📫 Email me at: [yidajiabei@gmail.com](mailto:yidajiabei@gmail.com)
