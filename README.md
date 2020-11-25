@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ██████████████████████████▁▁▁▁   89.89 %
+Annual balance    ██████████████████████████▁▁▁▁   89.93 %
 
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
 
@@ -16,7 +16,8 @@ Annual balance    ████████████████████�
 
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=site)](https://github.com/tianheg/site)
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=learn-english)](https://github.com/tianheg/learn-english)
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=config)](https://github.com/tianheg/config)
 
 ---
 
-⏰ Updated on Wed, 25 Nov 2020 00:14:21 GMT
+⏰ Updated on Wed, 25 Nov 2020 03:29:07 GMT
