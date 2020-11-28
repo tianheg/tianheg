@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████████▁▁▁   90.77 %
+Annual balance    ███████████████████████████▁▁▁   90.78 %
 
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
 
@@ -14,13 +14,8 @@ Annual balance    ████████████████████�
 
 ###### I'm still here : [Dribbble](https://dribbble.com/tianheg)
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=site)](https://github.com/tianheg/site)
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=learn-english)](https://github.com/tianheg/learn-english)
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=config)](https://github.com/tianheg/config)
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=podcast)](https://github.com/tianheg/podcast)
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=project-based-learning)](https://github.com/tianheg/project-based-learning)
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=web-docs)](https://github.com/tianheg/web-docs)
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=our)](https://github.com/tianheg/our)
 
 ---
 
-⏰ Updated on Sat, 28 Nov 2020 04:54:58 GMT
+⏰ Updated on Sat, 28 Nov 2020 06:17:54 GMT

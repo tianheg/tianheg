@@ -28,8 +28,6 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-###### I'm still here : [Dribbble](https://dribbble.com/tianheg)
-
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=our)](https://github.com/tianheg/our)
 
 ---
