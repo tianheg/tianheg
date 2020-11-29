@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████████▁▁▁   91.12 %
+Annual balance    ███████████████████████████▁▁▁   91.19 %
 
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
 
@@ -16,4 +16,4 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Sun, 29 Nov 2020 12:20:42 GMT
+⏰ Updated on Sun, 29 Nov 2020 18:15:34 GMT
