@@ -19,6 +19,16 @@ const readme = `
 
 Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(2)} %
 
+\`\`\`python
+def teach_yourself(anything):
+    while not create():
+        learn()
+        practice()
+    return teach_yourself(another)
+
+teach_yourself(coding)
+\`\`\`
+
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
 
 - ⚡ JavaScript / Python . Vue.
