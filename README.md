@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████████▁▁▁   90.78 %
+Annual balance    ███████████████████████████▁▁▁   92.76 %
 
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
 
@@ -12,10 +12,8 @@ Annual balance    ████████████████████�
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-###### I'm still here : [Dribbble](https://dribbble.com/tianheg)
-
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=our)](https://github.com/tianheg/our)
 
 ---
 
-⏰ Updated on Sat, 28 Nov 2020 06:17:54 GMT
+⏰ Updated on Sat, 05 Dec 2020 12:22:06 GMT
