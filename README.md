@@ -1,7 +1,17 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████████▁▁▁   92.76 %
+Annual balance    ███████████████████████████▁▁▁   92.91 %
+
+```python
+def teach_yourself(anything):
+    while not create():
+        learn()
+        practice()
+    return teach_yourself(another)
+
+teach_yourself(coding)
+```
 
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
 
@@ -16,4 +26,4 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Sat, 05 Dec 2020 12:22:06 GMT
+⏰ Updated on Sun, 06 Dec 2020 00:49:09 GMT
