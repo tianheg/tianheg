@@ -29,8 +29,6 @@ def teach_yourself(anything):
 teach_yourself(coding)
 \`\`\`
 
-<img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true" />
-
 - ⚡ JavaScript / Python . Vue.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg) and also [Keybase](https://keybase.io/yidajiabei/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tianheg/1ce40c3e06eddab6bc72b87cc26ec067).
 - 📫 Email me at: [yidajiabei@gmail.com](mailto:yidajiabei@gmail.com)
@@ -38,6 +36,7 @@ teach_yourself(coding)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true" />
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=our)](https://github.com/tianheg/our)
 
 ---
