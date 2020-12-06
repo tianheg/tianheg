@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████████▁▁▁   92.91 %
+Annual balance    ███████████████████████████▁▁▁   92.97 %
 
 ```python
 def teach_yourself(anything):
@@ -13,7 +13,7 @@ def teach_yourself(anything):
 teach_yourself(coding)
 ```
 
-<img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark" />
+<img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true" />
 
 - ⚡ JavaScript / Python . Vue.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg) and also [Keybase](https://keybase.io/yidajiabei/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tianheg/1ce40c3e06eddab6bc72b87cc26ec067).
@@ -26,4 +26,4 @@ teach_yourself(coding)
 
 ---
 
-⏰ Updated on Sun, 06 Dec 2020 00:49:09 GMT
+⏰ Updated on Sun, 06 Dec 2020 06:20:15 GMT
