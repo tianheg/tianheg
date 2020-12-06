@@ -20,9 +20,10 @@ teach_yourself(coding)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true" />
+<img src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true"/>
+
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=our)](https://github.com/tianheg/our)
 
 ---
 
-⏰ Updated on Sun, 06 Dec 2020 09:14:45 GMT
+⏰ Updated on Sun, 06 Dec 2020 09:17:09 GMT
