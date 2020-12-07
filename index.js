@@ -38,8 +38,6 @@ teach_yourself(coding)
 
 <img src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true"/>
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=our)](https://github.com/tianheg/our)
-
 ---
 
 ⏰ Updated on ${new Date().toUTCString()}`
