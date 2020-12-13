@@ -19,7 +19,7 @@ teach_yourself(coding)
 - 💰 Support my work on [爱发电](https://afdian.net/@yidajiabei)!
 - 🌐 [Linkedin](https://www.linkedin.com/in/tianheg/) &bull; [DouBan](https://www.douban.com/people/yidajiabei/)
 
-<h3>Current work</h3>:
+<h3>Current work</h3>
 
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=build-my-first-app)](https://github.com/tianheg/build-my-first-app)
 
@@ -29,4 +29,4 @@ teach_yourself(coding)
 
 ---
 
-⏰ Updated on Sun, 13 Dec 2020 11:06:10 GMT
+⏰ Updated on Sun, 13 Dec 2020 11:09:00 GMT
