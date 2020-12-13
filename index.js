@@ -35,6 +35,10 @@ teach_yourself(coding)
 - 💰 Support my work on [爱发电](https://afdian.net/@yidajiabei)!
 - 🌐 [Linkedin](https://www.linkedin.com/in/tianheg/) &bull; [DouBan](https://www.douban.com/people/yidajiabei/)
 
+<h3>Current work</h3>:
+
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=build-my-first-app)](https://github.com/tianheg/build-my-first-app)
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <img src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true"/>
