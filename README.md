@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jimgao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████████▁▁   95.36 %
+Annual balance    ████████████████████████████▁▁   95.43 %
 
 ```python
 def teach_yourself(anything):
@@ -21,7 +21,7 @@ teach_yourself(coding)
 
 <h3>Current work</h3>
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=build-my-first-app)](https://github.com/tianheg/build-my-first-app)
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=RSS-reader)](https://github.com/tianheg/RSS-reader)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -29,4 +29,4 @@ teach_yourself(coding)
 
 ---
 
-⏰ Updated on Tue, 15 Dec 2020 00:49:00 GMT
+⏰ Updated on Tue, 15 Dec 2020 06:22:19 GMT
