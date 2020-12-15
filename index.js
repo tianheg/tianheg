@@ -37,7 +37,7 @@ teach_yourself(coding)
 
 <h3>Current work</h3>
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=build-my-first-app)](https://github.com/tianheg/build-my-first-app)
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=RSS-reader)](https://github.com/tianheg/RSS-reader)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
