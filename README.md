@@ -1,7 +1,7 @@
 
-<h2>Hi, I'm Jimgao 👋👨‍💻</h2>
+<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████████████████████████▁   97.96 %
+Annual balance    █████████████████████████████▁   98.23 %
 
 ```python
 def teach_yourself(anything):
@@ -29,4 +29,4 @@ teach_yourself(coding)
 
 ---
 
-⏰ Updated on Thu, 24 Dec 2020 12:30:45 GMT
+⏰ Updated on Fri, 25 Dec 2020 12:28:45 GMT
