@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████████████████████████▁   98.50 %
+Annual balance    █████████████████████████████▁   98.57 %
 
 ```python
 def teach_yourself(anything):
@@ -19,14 +19,10 @@ teach_yourself(coding)
 - 💰 Support my work on [爱发电](https://afdian.net/@yidajiabei)!
 - 🌐 [Linkedin](https://www.linkedin.com/in/tianheg/) &bull; [DouBan](https://www.douban.com/people/yidajiabei/)
 
-<h3>Current work</h3>
-
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=RSS-reader)](https://github.com/tianheg/RSS-reader)
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <img src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true"/>
 
 ---
 
-⏰ Updated on Sat, 26 Dec 2020 12:28:15 GMT
+⏰ Updated on Sat, 26 Dec 2020 18:31:58 GMT
