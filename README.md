@@ -1,16 +1,16 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████████████████████████▁   98.98 %
+Annual balance    █████████████████████████████▁   99.05 %
 
 ```python
-def teach_yourself(anything):
+def teach_myself(anything):
     while not create():
         learn()
         practice()
-    return teach_yourself(another)
+    return teach_myself(another)
 
-teach_yourself(coding)
+teach_myself(coding)
 ```
 
 - ⚡ JavaScript / Python . Vue.
@@ -25,4 +25,4 @@ teach_yourself(coding)
 
 ---
 
-⏰ Updated on Mon, 28 Dec 2020 06:25:19 GMT
+⏰ Updated on Mon, 28 Dec 2020 12:29:14 GMT
