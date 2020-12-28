@@ -20,13 +20,13 @@ const readme = `
 Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(2)} %
 
 \`\`\`python
-def teach_yourself(anything):
+def teach_myself(anything):
     while not create():
         learn()
         practice()
-    return teach_yourself(another)
+    return teach_myself(another)
 
-teach_yourself(coding)
+teach_myself(coding)
 \`\`\`
 
 - ⚡ JavaScript / Python . Vue.
