@@ -37,8 +37,6 @@ teach_myself(coding)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<img src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true"/>
-
 ---
 
 ⏰ Updated on ${new Date().toUTCString()}`
