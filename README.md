@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   4.67 %
+Annual balance    █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   4.73 %
 
 ```python
 def teach_myself(anything):
@@ -23,4 +23,4 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Mon, 18 Jan 2021 01:27:12 GMT
+⏰ Updated on Mon, 18 Jan 2021 06:46:46 GMT
