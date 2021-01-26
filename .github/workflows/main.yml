@@ -6,20 +6,20 @@ on:
     - cron: '0 */6 * * *'
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '14.x'
-    - name: Update README.md
-      run: node index.js > README.md
-    - name: Commit change & Push
-      run: |
+  stale:
+      runs-on: ubuntu-18.04
+      steps:
+      - uses: actions/checkout@v2 # Checking out the repo
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d # Install all dependencies, including development ones
+      - name: Build
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run build
+      - name: Commit and push if changed   # 更新README.md
+        run: |
           git diff
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
