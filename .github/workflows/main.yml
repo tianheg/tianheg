@@ -12,32 +12,32 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install dependecies
-      uses: tianheg/github-actions@pipenv
+    - name: Use Node.js
+      uses: actions/setup-node@v1
       with:
-        command: install --dev # Install all dependencies, including development ones
-    - name: Build
-      uses: tianheg/github-actions@pipenv
-      with:
-        command: run build
-    - name: Commit and push if changed   # 更新README.md
+        node-version: '14.x'
+    - name: Update README.md
+      run: node index.js > README.md
+    - name: Commit change & Push
       run: |
           git diff
-          git config --global user.email "52186032+tianheg@users.noreply.github.com"
-          git config --global user.name "tianheg"
-          git add --all
-          git commit -m "Github Action Auto Updated"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am "bot: update README.md automatically"
           git push
-    # - name: Use Node.js
-    #   uses: actions/setup-node@v1
+    # - name: Install dependecies
+    #   uses: tianheg/github-actions@pipenv
     #   with:
-    #     node-version: '14.x'
-    # - name: Update README.md
-    #   run: node index.js > README.md
-    # - name: Commit change & Push
+    #     command: install --dev # Install all dependencies, including development ones
+    # - name: Build
+    #   uses: tianheg/github-actions@pipenv
+    #   with:
+    #     command: run build
+    # - name: Commit and push if changed   # 更新README.md
     #   run: |
     #       git diff
-    #       git config user.name 'github-actions[bot]'
-    #       git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-    #       git commit -am "bot: update README.md automatically"
+    #       git config --global user.email "52186032+tianheg@users.noreply.github.com"
+    #       git config --global user.name "tianheg"
+    #       git add README.md
+    #       git commit -m "Github Action Auto Updated"
     #       git push
