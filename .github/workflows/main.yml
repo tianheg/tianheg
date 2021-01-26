@@ -23,7 +23,8 @@ jobs:
           git diff
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am "bot: update README.md automatically"
+          git add README.md
+          git commit -m "bot: update README.md automatically"
           git push
     # - name: Install dependecies
     #   uses: tianheg/github-actions@pipenv
