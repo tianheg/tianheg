@@ -36,6 +36,15 @@ teach_myself(coding)
 - 🌐 [Linkedin](https://www.linkedin.com/in/tianheg/) &bull; [DouBan](https://www.douban.com/people/yidajiabei/)
 
 ---start---
+
+## 最近更新文章(更新时间:2021-01-26 15:18:07 | 通过Github Actions自动更新)
+
+[2021 年第 4 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-4/)
+
+[Hugo 语法高亮](https://blog.yidajiabei.xyz/posts/hugo-syntax-highlighting/)
+
+[2021 年第 3 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-3/)
+
 ---end---
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
