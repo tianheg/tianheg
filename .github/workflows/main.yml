@@ -15,7 +15,7 @@ jobs:
     - name: Install dependecies
       uses: tianheg/github-actions@pipenv
       with:
-        command: install -d # Install all dependencies, including development ones
+        command: install --dev # Install all dependencies, including development ones
     - name: Build
       uses: tianheg/github-actions@pipenv
       with:
