@@ -1,4 +1,4 @@
-name: Progress Bar CI
+name: update tianheg profile
 
 on:
   workflow_dispatch:
@@ -18,6 +18,14 @@ jobs:
         node-version: '14.x'
     - name: Update README.md
       run: node index.js > README.md
+    - name: Install dependecies
+        uses: tianheg/github-actions@pipenv
+        with:
+          command: install -d # Install all dependencies, including development ones
+      - name: Build
+        uses: tianheg/github-actions@pipenv
+        with:
+          command: run build
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'

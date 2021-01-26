@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████████████████████████▁   99.19 %
+Annual balance    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   6.86 %
 
 ```python
 def teach_myself(anything):
@@ -21,8 +21,6 @@ teach_myself(coding)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<img src="https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true"/>
-
 ---
 
-⏰ Updated on Tue, 29 Dec 2020 01:01:19 GMT
+⏰ Updated on Tue, 26 Jan 2021 00:54:06 GMT
