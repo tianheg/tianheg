@@ -12,20 +12,28 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '14.x'
     - name: Install dependecies
       uses: tianheg/github-actions@pipenv
       with:
         command: install -d # Install all dependencies, including development ones
-    - name: Update README.md
-      run: node index.js > README.md
     - name: Build
       uses: tianheg/github-actions@pipenv
       with:
         command: run build
+    - name: Commit and push if changed   # 更新README.md
+        run: |
+          git diff
+          git config --global user.email "52186032+tianheg@users.noreply.github.com"
+          git config --global user.name "tianheg"
+          git add README.md
+          git commit -m "Github Action Auto Updated"
+          git push
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - name: Update README.md
+      run: node index.js > README.md
     - name: Commit change & Push
       run: |
           git diff
