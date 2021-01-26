@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - uses: tianheg/github-actions@pipenv
     - name: Install dependecies
-      uses: tianheg/github-actions@pipenv
-      with:
-        command: install # Install all dependencies, including development ones
+      run: |
+          pipenv install -d
     - name: Build
       uses: tianheg/github-actions@pipenv
       with:
