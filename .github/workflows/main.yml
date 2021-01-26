@@ -8,14 +8,14 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: Install dependecies
       uses: tianheg/github-actions@pipenv
       with:
-        command: install -d # Install all dependencies, including development ones
+        command: install # Install all dependencies, including development ones
     - name: Build
       uses: tianheg/github-actions@pipenv
       with:
