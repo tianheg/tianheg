@@ -1,17 +1,17 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
 
 [scripts]
 build = "python main.py"
+
+[dev-packages]
 
 [packages]
 requests = "2.25.1"
 feedparser = "6.0.2"
 pytz = "2020.5"
 
-[dev-packages]
-
 [requires]
-python_version = "3.8"
+python_version = "3.7"
