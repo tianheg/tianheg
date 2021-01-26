@@ -21,7 +21,7 @@ jobs:
       with:
         command: run build
     - name: Commit and push if changed   # 更新README.md
-        run: |
+      run: |
           git diff
           git config --global user.email "52186032+tianheg@users.noreply.github.com"
           git config --global user.name "tianheg"
