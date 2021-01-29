@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   7.81 %
+Annual balance    ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   7.88 %
 
 ```python
 def teach_myself(anything):
@@ -21,13 +21,13 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-01-29 20:05:05 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-01-30 02:19:32 | 通过Github Actions自动更新)**
+
+[信息获取](https://blog.yidajiabei.xyz/posts/get-info/)
 
 [计算机科学基础](https://blog.yidajiabei.xyz/posts/computer-science-basis/)
 
 [学习 Javascript 1 - 介绍 JavaScript](https://blog.yidajiabei.xyz/posts/javascript-1-intro/)
-
-[为 GitHub 主页添加「年进度」和「最近更新的博客文章」](https://blog.yidajiabei.xyz/posts/create-cool-github-profile/)
 
 ---end---
 
@@ -35,4 +35,4 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Fri, 29 Jan 2021 12:04:54 GMT
+⏰ Updated on Fri, 29 Jan 2021 18:19:22 GMT
