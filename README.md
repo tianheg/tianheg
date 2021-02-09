@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.82 %
+Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.89 %
 
 ```python
 def teach_myself(anything):
@@ -21,13 +21,13 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-02-09 20:04:59 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-02-10 02:04:15 | 通过Github Actions自动更新)**
+
+[来自 stormzhang 的有价值的句子](https://blog.yidajiabei.xyz/posts/words-from-stormzhang/)
+
+[2021 年第 6 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-6/)
 
 [吉祥如意——大鹏](https://blog.yidajiabei.xyz/posts/ji-xiang-ru-yi-da-peng/)
-
-[不要限制自己](https://blog.yidajiabei.xyz/posts/do-not-limit-yourself/)
-
-[电子名片的重要性](https://blog.yidajiabei.xyz/posts/importance-of-electronic-name-card/)
 
 ---end---
 
@@ -35,4 +35,4 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Tue, 09 Feb 2021 12:04:47 GMT
+⏰ Updated on Tue, 09 Feb 2021 18:04:03 GMT
