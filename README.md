@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.12 %
+Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.19 %
 
 ```python
 def teach_myself(anything):
@@ -21,11 +21,11 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-02-14 14:04:35 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-02-14 20:04:54 | 通过Github Actions自动更新)**
 
 [stormzhang 的成长经历](https://blog.yidajiabei.xyz/posts/stormzhang-de-experience/)
 
-[来自 stormzhang 的有价值的句子](https://blog.yidajiabei.xyz/posts/words-from-stormzhang/)
+[stormzhang 给程序员的 50 条建议](https://blog.yidajiabei.xyz/posts/words-from-stormzhang/)
 
 [2021 年第 6 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-6/)
 
@@ -35,4 +35,4 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Sun, 14 Feb 2021 06:04:23 GMT
+⏰ Updated on Sun, 14 Feb 2021 12:04:43 GMT
