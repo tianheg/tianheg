@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.74 %
+Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.81 %
 
 ```python
 def teach_myself(anything):
@@ -21,13 +21,13 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-02-16 20:04:57 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-02-17 02:04:19 | 通过Github Actions自动更新)**
 
-[如何阅读一本书](https://blog.yidajiabei.xyz/posts/how-to-read-a-book/)
+[TK 教主的话](https://blog.yidajiabei.xyz/posts/tombkeeper-de-words/)
 
-[三块广告牌](https://blog.yidajiabei.xyz/posts/three-billboards-outside-ebbing-missouri/)
+[一些推荐的工具](https://blog.yidajiabei.xyz/posts/tools/)
 
-[盗梦空间](https://blog.yidajiabei.xyz/posts/inception/)
+[鼓舞我的话](https://blog.yidajiabei.xyz/posts/encouraging-words/)
 
 ---end---
 
@@ -35,4 +35,4 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Tue, 16 Feb 2021 12:04:44 GMT
+⏰ Updated on Tue, 16 Feb 2021 18:04:07 GMT
