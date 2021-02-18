@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.29 %
+Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.36 %
 
 ```python
 def teach_myself(anything):
@@ -21,7 +21,7 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-02-18 20:04:53 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-02-19 02:04:23 | 通过Github Actions自动更新)**
 
 [能提高你的编程技巧的 GitHub 仓库](https://blog.yidajiabei.xyz/posts/github-repositories-to-improve-your-programming-skills/)
 
@@ -35,6 +35,6 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Thu, 18 Feb 2021 12:04:39 GMT
+⏰ Updated on Thu, 18 Feb 2021 18:04:07 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
