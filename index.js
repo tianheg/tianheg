@@ -51,5 +51,7 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on ${new Date().toUTCString()}`;
+⏰ Updated on ${new Date().toUTCString()}
+
+[How this works](https://github.com/tianheg/tianheg/issues/1)`;
 console.log(readme)
