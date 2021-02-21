@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.04 %
+Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.11 %
 
 ```python
 def teach_myself(anything):
@@ -21,13 +21,13 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-02-21 14:03:52 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-02-21 20:04:26 | 通过Github Actions自动更新)**
+
+[书目](https://blog.yidajiabei.xyz/posts/books/)
+
+[Hugo 置顶博客](https://blog.yidajiabei.xyz/posts/hugo-top-a-post/)
 
 [我在四维世界](https://blog.yidajiabei.xyz/posts/im-in-a-four-dimensional-world/)
-
-[2021 年第 7 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-7/)
-
-[永恒的终结](https://blog.yidajiabei.xyz/posts/asimov-the-end-of-eternity/)
 
 ---end---
 
@@ -35,6 +35,6 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Sun, 21 Feb 2021 06:03:39 GMT
+⏰ Updated on Sun, 21 Feb 2021 12:04:13 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
