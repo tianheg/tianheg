@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.96 %
+Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   16.03 %
 
 ```python
 def teach_myself(anything):
@@ -21,7 +21,7 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-02-28 14:04:10 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-02-28 20:04:48 | 通过Github Actions自动更新)**
 
 [2021 年第 8 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-8/)
 
@@ -35,6 +35,6 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Sun, 28 Feb 2021 06:03:56 GMT
+⏰ Updated on Sun, 28 Feb 2021 12:04:35 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
