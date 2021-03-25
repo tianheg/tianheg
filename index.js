@@ -53,5 +53,7 @@ teach_myself(coding)
 
 ⏰ Updated on ${new Date().toUTCString()}
 
-[How this works](https://github.com/tianheg/tianheg/issues/1)`;
+[How this works](https://github.com/tianheg/tianheg/issues/1)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=tianheg" alt="vistors" />`;
 console.log(readme)
