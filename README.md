@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   25.62 %
+Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   25.69 %
 
 ```python
 def teach_myself(anything):
@@ -20,13 +20,13 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间:2021-04-04 20:12:38 | 通过Github Actions自动更新)**
+**最近更新文章(更新时间:2021-04-05 02:22:50 | 通过Github Actions自动更新)**
+
+[赵英俊](https://blog.yidajiabei.xyz/posts/zhao-ying-jun/)
+
+[奥野宣之《如何有效整理信息》](https://blog.yidajiabei.xyz/posts/how-to-organize-information-effectively/)
 
 [2021 年第 13 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-13/)
-
-[哲学地生活](https://blog.yidajiabei.xyz/posts/living-philosophically/)
-
-[To Be or Not to Be](https://blog.yidajiabei.xyz/posts/to-be-or-not-to-be/)
 
 ---end---
 
@@ -34,7 +34,7 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Sun, 04 Apr 2021 12:12:26 GMT
+⏰ Updated on Sun, 04 Apr 2021 18:22:39 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
