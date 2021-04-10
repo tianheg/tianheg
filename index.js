@@ -50,7 +50,7 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on ${new Date().toTimeString()}
+⏰ Updated on ${new Date().now.toUTCString()}
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
