@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   37.26 %
+Annual balance    ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   37.33 %
 
 ```python
 def teach_myself(anything):
@@ -20,13 +20,13 @@ teach_myself(coding)
 
 ---start---
 
-**最近更新文章(更新时间：2021-05-17 08:21:08 | Automatic update via Github Actions)**
+**最近更新文章(更新时间：2021-05-17 14:07:33 | Automatic update via Github Actions)**
+
+[人生架构](https://blog.yidajiabei.xyz/posts/life-structure/)
 
 [2021 年第 19 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-19/)
 
 [余秋雨《借我一生》](https://blog.yidajiabei.xyz/posts/yuqiuyu-reminiscences-and-reflections/)
-
-[2021 年第 18 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-18/)
 
 ---end---
 
@@ -34,7 +34,7 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Mon, 17 May 2021 00:20:57 GMT
+⏰ Updated on Mon, 17 May 2021 06:07:24 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
