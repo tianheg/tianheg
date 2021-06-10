@@ -1,70 +1,70 @@
-## GitHub Stats Card
+# GitHub Stats Card
 
-### Simple
+## Simple
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg)
 
 <img align="right" src="https://tianheg-readme-stats.vercel.app/api?username=tianheg" />
 
-### Hiding individual stats
+## Hiding individual stats
 
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&hide=contribs,prs)
 
-### Adding private contributions count to total commits count
+## Adding private contributions count to total commits count
 
 _Note: If you are deploying this project yourself, the private contributions will be counted by default otherwise you need to chose to share your private contribution counts._
 
 > Options: `&count_private=true`
 
-### Showing icons
+## Showing icons
 
 > Options: `show_icons=true`
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true)
 
-### Themes
+## Themes
 
 > Options: `?theme=THEME_NAME`
 
-#### radical
+### radical
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=radical)
 
-#### dark
+### dark
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dark)
 
-#### merko
+### merko
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=merko)
 
-#### gruvbox
+### gruvbox
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=gruvbox)
 
-#### tokyonight
+### tokyonight
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=tokyonight)
 
-#### onedark
+### onedark
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=onedark)
 
-#### cobalt
+### cobalt
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=cobalt)
 
-#### synthwave
+### synthwave
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=synthwave)
 
-#### highcontrast
+### highcontrast
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=highcontrast)
 
-#### dracula
+### dracula
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true&theme=dracula)
 
@@ -112,3 +112,7 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 ### Compact Language Card Layout
 
 ![Top Languages Card](https://tianheg-readme-stats.vercel.app/api/top-langs/?username=tianheg&layout=compact)
+
+## Wakatime card
+
+![Wakatime card](https://tianheg-readme-stats.vercel.app/api/wakatime?username=tianheg)
