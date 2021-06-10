@@ -85,9 +85,9 @@ _Note: If you are deploying this project yourself, the private contributions wil
 
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=github-readme-stats)](https://github.com/tianheg/github-readme-stats)
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=wiki)](https://github.com/tianheg/wiki)
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=til)](https://github.com/tianheg/til)
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=note)](https://github.com/tianheg/note)
+[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=self)](https://github.com/tianheg/self)
 
 ## Top Languages Card
 
@@ -97,7 +97,7 @@ _NOTE: Top Languages does not indicate my skill level or anything like that, it'
 
 ### Exclude individual repositories
 
-![Top Languages Card](https://tianheg-readme-stats.vercel.app/api/top-langs/?username=tianheg&exclude_repo=note,wiki)
+![Top Languages Card](https://tianheg-readme-stats.vercel.app/api/top-langs/?username=tianheg&exclude_repo=til,self)
 
 ### Hide individual languages
 
