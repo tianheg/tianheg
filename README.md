@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.97 %
+Annual balance    █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.99 %
 
 ```python
 def teach_myself(anything):
@@ -13,14 +13,14 @@ def teach_myself(anything):
 teach_myself(coding)
 ```
 
-- ⚡ HTML, CSS, JavaScript.
+- ⚡ JavaScript / Python . Vue.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg) and also [Keybase](https://keybase.io/yidajiabei/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tianheg/1ce40c3e06eddab6bc72b87cc26ec067).
 - 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@yidajiabei)!
 - 🌐 [Linkedin](https://www.linkedin.com/in/tianheg/) &bull; [DouBan](https://www.douban.com/people/yidajiabei/)
 
 ---start---
 
-**最近更新文章(更新时间：2021-06-10 20:08:22 | Automatic update via Github Actions)**
+**最近更新文章(更新时间：2021-06-10 21:56:00 | Automatic update via Github Actions)**
 
 [关于 HTML 的所有事](https://blog.yidajiabei.xyz/posts/everything-about-html/)
 
@@ -34,7 +34,7 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Thu, 10 Jun 2021 12:08:06 GMT
+⏰ Updated on Thu, 10 Jun 2021 13:55:48 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
