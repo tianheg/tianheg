@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   27.22 %
+Annual balance    █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   43.97 %
 
 ```python
 def teach_myself(anything):
@@ -13,20 +13,20 @@ def teach_myself(anything):
 teach_myself(coding)
 ```
 
-- ⚡ JavaScript / Python . Vue.
+- ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg) and also [Keybase](https://keybase.io/yidajiabei/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tianheg/1ce40c3e06eddab6bc72b87cc26ec067).
 - 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@yidajiabei)!
 - 🌐 [Linkedin](https://www.linkedin.com/in/tianheg/) &bull; [DouBan](https://www.douban.com/people/yidajiabei/)
 
 ---start---
 
-**最近更新文章(更新时间：2021-04-10 16:12:01 | Automatic update via Github Actions)**
+**最近更新文章(更新时间：2021-06-10 20:08:22 | Automatic update via Github Actions)**
 
-[一枚书签](https://blog.yidajiabei.xyz/posts/bookmark/)
+[关于 HTML 的所有事](https://blog.yidajiabei.xyz/posts/everything-about-html/)
 
-[L 先生说《为什么每天都那么累？》](https://blog.yidajiabei.xyz/posts/mr-l-said-why-are-you-so-tired-every-day/)
+[Robert L. Read《How to be a Programmer 中文版》](https://blog.yidajiabei.xyz/posts/how-to-be-a-programmer-zh/)
 
-[许知远《那些忧伤的年轻人》](https://blog.yidajiabei.xyz/posts/those-sad-young-men/)
+[Paul Graham《黑客与画家》](https://blog.yidajiabei.xyz/posts/hackers-and-painters/)
 
 ---end---
 
@@ -34,7 +34,7 @@ teach_myself(coding)
 
 ---
 
-⏰ Updated on Sat, 10 Apr 2021 08:11:47 GMT
+⏰ Updated on Thu, 10 Jun 2021 12:08:06 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
