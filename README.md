@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    █████████████████████▁▁▁▁▁▁▁▁▁   72.20 %
+Annual balance    █████████████████████▁▁▁▁▁▁▁▁▁   72.26 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-09-21 20:28:05 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-09-22 02:20:36 | Automatic update via Github Actions)*
+
+[部署 Hugo 博客到 Ubuntu 服务器](https://blog.yidajiabei.xyz/posts/deploy-hugo-blog-to-ubuntu-server/)
 
 [我找回了好奇心](https://blog.yidajiabei.xyz/posts/i-got-my-curiosity-back/)
 
 [Nginx 初次使用](https://blog.yidajiabei.xyz/posts/first-use-nginx/)
-
-[天贺私语20210912](https://blog.yidajiabei.xyz/posts/tianhe-talk-20210912/)
 
 ---end---
 
@@ -23,7 +23,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Tue, 21 Sep 2021 12:27:51 GMT
+⏰ Updated on Tue, 21 Sep 2021 18:20:21 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
