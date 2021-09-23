@@ -26,7 +26,7 @@ def get_link_info(feed_url, num):
     return result
 
 def main():
-    blog =  get_link_info("https://blog.yidajiabei.xyz/index.xml", 3)
+    blog =  get_link_info("https://blog.yidajiabei.xyz/rss.xml", 3)
     insert_info = blog
 
     # 替换 ---start--- 到 ---end--- 之间的内容
