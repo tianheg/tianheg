@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ██████████████████████▁▁▁▁▁▁▁▁   74.87 %
+Annual balance    ██████████████████████▁▁▁▁▁▁▁▁   74.94 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-01 14:21:28 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-01 20:28:04 | Automatic update via Github Actions)*
+
+[上野宣《图解 HTTP》](https://blog.yidajiabei.xyz/posts/graphical-http/)
+
+[2021年9月下总结](https://blog.yidajiabei.xyz/posts/2021-sept-down-summary/)
 
 [水珠](https://blog.yidajiabei.xyz/posts/a-drop-of-water/)
-
-[选择与眼界](https://blog.yidajiabei.xyz/posts/%E9%80%89%E6%8B%A9%E4%B8%8E%E7%9C%BC%E7%95%8C/)
-
-[攻殻機動隊](https://blog.yidajiabei.xyz/posts/ghost-in-the-shell/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 01 Oct 2021 06:21:12 GMT
+⏰ Updated on Fri, 01 Oct 2021 12:27:48 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
