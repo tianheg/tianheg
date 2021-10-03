@@ -47,5 +47,5 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 ![Wakatime Card](https://tianheg-readme-stats.vercel.app/api/wakatime?username=tianheg&layout=compact)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=tianheg" alt="vistors" />`;
+<img src="https://tianheg-visitor-badge.glitch.me/badge?page_id=tianheg" alt="visitors" />`;
 console.log(readme)
