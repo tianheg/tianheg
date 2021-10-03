@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ██████████████████████▁▁▁▁▁▁▁▁   75.48 %
+Annual balance    ██████████████████████▁▁▁▁▁▁▁▁   75.51 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,7 +9,7 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-03 20:26:49 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-03 22:34:10 | Automatic update via Github Actions)*
 
 [毛姆《寻欢作乐》](https://blog.yidajiabei.xyz/posts/maugham-cakes-and-ale/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Sun, 03 Oct 2021 12:26:32 GMT
+⏰ Updated on Sun, 03 Oct 2021 14:33:53 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
@@ -33,4 +33,4 @@ Annual balance    ████████████████████�
 
 ![Wakatime Card](https://tianheg-readme-stats.vercel.app/api/wakatime?username=tianheg&layout=compact)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=tianheg" alt="vistors" />
+<img src="https://tianheg-visitor-badge.glitch.me/badge?page_id=tianheg" alt="visitors" />
