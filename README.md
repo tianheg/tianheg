@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ██████████████████████▁▁▁▁▁▁▁▁   75.63 %
+Annual balance    ██████████████████████▁▁▁▁▁▁▁▁   75.69 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,15 +9,15 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-04 09:03:13 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-04 14:21:52 | Automatic update via Github Actions)*
 
-[毛姆《寻欢作乐》](https://blog.yidajiabei.xyz/posts/maugham-cakes-and-ale/)
+[毛姆《寻欢作乐》](https://weblog.yidajiabei.xyz/posts/maugham-cakes-and-ale/)
 
-[上野宣《图解 HTTP》](https://blog.yidajiabei.xyz/posts/graphical-http/)
+[上野宣《图解 HTTP》](https://weblog.yidajiabei.xyz/posts/graphical-http/)
 
-[2021年9月下总结](https://blog.yidajiabei.xyz/posts/2021-sept-down-summary/)
+[2021年9月下总结](https://weblog.yidajiabei.xyz/posts/2021-sept-down-summary/)
 
-[Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
+[Eat, Sleep](https://weblog.yidajiabei.xyz/en/posts/eat-sleep/)
 
 ---end---
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Mon, 04 Oct 2021 01:03:00 GMT
+⏰ Updated on Mon, 04 Oct 2021 06:21:24 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
