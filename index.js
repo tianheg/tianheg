@@ -45,7 +45,5 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 ![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true)
 
-![Wakatime Card](https://tianheg-readme-stats.vercel.app/api/wakatime?username=tianheg&layout=compact)
-
-<img src="https://tianheg-visitor-badge.glitch.me/badge?page_id=tianheg" alt="visitors" />`;
+![Wakatime Card](https://tianheg-readme-stats.vercel.app/api/wakatime?username=tianheg&layout=compact)`;
 console.log(readme)
