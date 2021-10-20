@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████▁▁▁▁▁▁▁   79.94 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   80.01 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,11 +9,11 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-20 02:20:54 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-20 09:03:51 | Automatic update via Github Actions)*
 
-[LeetCode两数之和-输入有序数组](https://blog.yidajiabei.xyz/posts/leetcode-two-sum-ii-input-array-is-sorted/)
+[LC167. 两数之和-输入有序数组](https://blog.yidajiabei.xyz/posts/lc-167-two-sum-ii-input-array-is-sorted/)
 
-[LeetCode两数之和](https://blog.yidajiabei.xyz/posts/leetcode-two-sum/)
+[LC1. 两数之和](https://blog.yidajiabei.xyz/posts/lc-1-two-sum/)
 
 [2021年10月上旬总结](https://blog.yidajiabei.xyz/posts/2021-oct-up-summary/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Tue, 19 Oct 2021 18:20:35 GMT
+⏰ Updated on Wed, 20 Oct 2021 01:03:30 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
