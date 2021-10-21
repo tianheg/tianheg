@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   80.42 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   80.48 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-21 20:29:27 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-22 02:21:07 | Automatic update via Github Actions)*
+
+[LC26. 删除有序数组中的重复项](https://blog.yidajiabei.xyz/posts/lc-26-remove-duplicates-from-sorted-array/)
+
+[女孩](https://blog.yidajiabei.xyz/posts/girl/)
 
 [LC453. 最小操作次数使数组元素相等](https://blog.yidajiabei.xyz/posts/lc-453-minimum-moves-to-equal-array-elements/)
-
-[LC167. 两数之和-输入有序数组](https://blog.yidajiabei.xyz/posts/lc-167-two-sum-ii-input-array-is-sorted/)
-
-[LC1. 两数之和](https://blog.yidajiabei.xyz/posts/lc-1-two-sum/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Thu, 21 Oct 2021 12:29:06 GMT
+⏰ Updated on Thu, 21 Oct 2021 18:20:45 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
