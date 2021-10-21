@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   80.21 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   80.29 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,7 +9,7 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-21 02:20:36 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-21 09:06:22 | Automatic update via Github Actions)*
 
 [LC453. 最小操作次数使数组元素相等](https://blog.yidajiabei.xyz/posts/lc-453-minimum-moves-to-equal-array-elements/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Wed, 20 Oct 2021 18:20:15 GMT
+⏰ Updated on Thu, 21 Oct 2021 01:05:59 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
