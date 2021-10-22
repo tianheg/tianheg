@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   80.69 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   80.76 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-22 20:29:01 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-23 02:21:08 | Automatic update via Github Actions)*
 
-[LC26. 删除有序数组中的重复项](https://blog.yidajiabei.xyz/posts/lc-26-remove-duplicates-from-sorted-array/)
+[在 Ubuntu20.04 配合 Nginx 使用 Let’s Encrypt 证书](https://blog.yidajiabei.xyz/posts/install-letsencrypt-with-nginx-on-ubuntu20.04/)
 
-[女孩](https://blog.yidajiabei.xyz/posts/girl/)
+[Nginx Conflicting Server Name 问题](https://blog.yidajiabei.xyz/posts/nginx-conflicting-server-name/)
 
-[LC453. 最小操作次数使数组元素相等](https://blog.yidajiabei.xyz/posts/lc-453-minimum-moves-to-equal-array-elements/)
+[LC122. 买卖股票的最佳时机II](https://blog.yidajiabei.xyz/posts/lc-122-best-time-to-buy-and-sell-stock-ii/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 22 Oct 2021 12:28:36 GMT
+⏰ Updated on Fri, 22 Oct 2021 18:20:41 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
