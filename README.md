@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   80.56 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   80.62 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,7 +9,7 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-22 09:10:10 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-22 14:22:06 | Automatic update via Github Actions)*
 
 [LC26. 删除有序数组中的重复项](https://blog.yidajiabei.xyz/posts/lc-26-remove-duplicates-from-sorted-array/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 22 Oct 2021 01:09:51 GMT
+⏰ Updated on Fri, 22 Oct 2021 06:21:41 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
