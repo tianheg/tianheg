@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   81.17 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   81.24 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,7 +9,7 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-24 14:21:16 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-24 20:27:37 | Automatic update via Github Actions)*
 
 [LC189. 旋转数组](https://blog.yidajiabei.xyz/posts/lc-189-rotate-array/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Sun, 24 Oct 2021 06:20:48 GMT
+⏰ Updated on Sun, 24 Oct 2021 12:27:12 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
