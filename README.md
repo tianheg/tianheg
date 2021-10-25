@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   81.51 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   81.58 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-25 20:29:06 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-26 02:22:00 | Automatic update via Github Actions)*
+
+[LC94. 二叉树的中序遍历](https://blog.yidajiabei.xyz/posts/2021/lc-94-binary-tree-inorder-traversal/)
 
 [LC217. 存在重复元素](https://blog.yidajiabei.xyz/posts/lc-217-contains-duplicate/)
 
 [LC189. 旋转数组](https://blog.yidajiabei.xyz/posts/lc-189-rotate-array/)
-
-[在 Ubuntu20.04 配合 Nginx 使用 Let’s Encrypt 证书](https://blog.yidajiabei.xyz/posts/install-letsencrypt-with-nginx-on-ubuntu20.04/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Mon, 25 Oct 2021 12:28:40 GMT
+⏰ Updated on Mon, 25 Oct 2021 18:21:35 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
