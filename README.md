@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   81.85 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   81.93 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,9 +9,9 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-27 02:21:07 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-27 08:57:22 | Automatic update via Github Actions)*
 
-[LC94. 二叉树的中序遍历](https://blog.yidajiabei.xyz/posts/2021/lc-94-binary-tree-inorder-traversal/)
+[LC94. 二叉树的中序遍历](https://blog.yidajiabei.xyz/posts/lc-94-binary-tree-inorder-traversal/)
 
 [LC217. 存在重复元素](https://blog.yidajiabei.xyz/posts/lc-217-contains-duplicate/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Tue, 26 Oct 2021 18:20:42 GMT
+⏰ Updated on Wed, 27 Oct 2021 00:56:42 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
