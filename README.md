@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   82.26 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   82.33 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-28 14:22:21 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-28 20:28:56 | Automatic update via Github Actions)*
+
+[Emacs 未指定 ispell-hunspell-dict-paths-alist 报错](https://blog.yidajiabei.xyz/posts/emacs-error-about-ispell-hunspell-dict-paths-alist/)
 
 [通过 Nginx 让网站支持 HTTP/2](https://blog.yidajiabei.xyz/posts/nginx-http2/)
 
 [LC94. 二叉树的中序遍历](https://blog.yidajiabei.xyz/posts/lc-94-binary-tree-inorder-traversal/)
-
-[LC217. 存在重复元素](https://blog.yidajiabei.xyz/posts/lc-217-contains-duplicate/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Thu, 28 Oct 2021 06:21:36 GMT
+⏰ Updated on Thu, 28 Oct 2021 12:28:34 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
