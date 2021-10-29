@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   82.54 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   82.61 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-29 14:22:08 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-29 20:29:02 | Automatic update via Github Actions)*
+
+[Vim 常用快捷键总结](https://blog.yidajiabei.xyz/posts/vim-common-keyboard-shortcuts/)
+
+[Emacs 常用快捷键总结](https://blog.yidajiabei.xyz/posts/emacs-common-keyboard-shortcuts/)
 
 [Emacs 未指定 ispell-hunspell-dict-paths-alist 报错](https://blog.yidajiabei.xyz/posts/emacs-error-about-ispell-hunspell-dict-paths-alist/)
-
-[通过 Nginx 让网站支持 HTTP/2](https://blog.yidajiabei.xyz/posts/nginx-http2/)
-
-[LC94. 二叉树的中序遍历](https://blog.yidajiabei.xyz/posts/lc-94-binary-tree-inorder-traversal/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 29 Oct 2021 06:21:44 GMT
+⏰ Updated on Fri, 29 Oct 2021 12:28:17 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
