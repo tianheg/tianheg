@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████▁▁▁▁▁▁   82.81 %
+Annual balance    ████████████████████████▁▁▁▁▁▁   82.88 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-10-30 14:21:09 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-10-30 20:27:22 | Automatic update via Github Actions)*
+
+[Arrival](https://blog.yidajiabei.xyz/posts/arrival/)
 
 [Vim 常用快捷键总结](https://blog.yidajiabei.xyz/posts/vim-common-keyboard-shortcuts/)
 
 [Emacs 常用快捷键总结](https://blog.yidajiabei.xyz/posts/emacs-common-keyboard-shortcuts/)
-
-[Emacs 未指定 ispell-hunspell-dict-paths-alist 报错](https://blog.yidajiabei.xyz/posts/emacs-error-about-ispell-hunspell-dict-paths-alist/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Sat, 30 Oct 2021 06:20:49 GMT
+⏰ Updated on Sat, 30 Oct 2021 12:27:00 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
