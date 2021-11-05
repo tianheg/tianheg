@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    █████████████████████████▁▁▁▁▁   84.46 %
+Annual balance    █████████████████████████▁▁▁▁▁   84.53 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-11-05 14:21:43 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-11-05 20:28:46 | Automatic update via Github Actions)*
+
+[人的本性即是变化](https://blog.yidajiabei.xyz/posts/people-always-change/)
 
 [Nginx 中在 80 端口添加 HTTP/2 出现问题](https://blog.yidajiabei.xyz/posts/nginx-error-with-80-http2/)
 
 [笨蛋如我](https://blog.yidajiabei.xyz/posts/idiot-like-me/)
-
-[2021年10月下旬总结](https://blog.yidajiabei.xyz/posts/2021-oct-down-summary/)
 
 [Eat, Sleep](https://blog.yidajiabei.xyz/en/posts/eat-sleep/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 05 Nov 2021 06:21:23 GMT
+⏰ Updated on Fri, 05 Nov 2021 12:28:23 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
