@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    █████████████████████████▁▁▁▁▁   85.76 %
+Annual balance    █████████████████████████▁▁▁▁▁   85.83 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,7 +9,7 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-11-10 08:58:45 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-11-10 14:22:05 | Automatic update via Github Actions)*
 
 [HTML Tables Structuring Planet Data](https://blog.yidajiabei.xyz/posts/html-tables-structuring-planet-data/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Wed, 10 Nov 2021 00:58:23 GMT
+⏰ Updated on Wed, 10 Nov 2021 06:21:42 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
