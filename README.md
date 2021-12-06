@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ███████████████████████████▁▁▁   93.02 %
+Annual balance    ███████████████████████████▁▁▁   93.09 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,7 +9,7 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-12-06 20:30:35 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-12-07 02:23:21 | Automatic update via Github Actions)*
 
 [LC96. 不同的二叉搜索树](https://blog.yidajiabei.xyz/posts/lc-96-unique-binary-search-trees/)
 
@@ -25,7 +25,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Mon, 06 Dec 2021 12:30:18 GMT
+⏰ Updated on Mon, 06 Dec 2021 18:23:06 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
