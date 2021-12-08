@@ -26,9 +26,8 @@ def get_link_info(feed_url, num):
     return result
 
 def main():
-    blog =  get_link_info("https://blog.yidajiabei.xyz/index.xml", 3)
-    blog_en =  get_link_info("https://blog.yidajiabei.xyz/en/index.xml", 3)
-    insert_info = blog + blog_en
+    blog =  get_link_info("https://www.yidajiabei.xyz/rss.xml", 3)
+    insert_info = blog
 
     # 替换 ---start--- 到 ---end--- 之间的内容
     # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
