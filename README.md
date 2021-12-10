@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████████▁▁   93.98 %
+Annual balance    ████████████████████████████▁▁   94.05 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,11 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-12-10 09:01:57 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-12-10 14:22:42 | Automatic update via Github Actions)*
+
+[使用 Org-mode 为文本添加高亮](https://www.yidajiabei.xyz/blog/2021/org-mode-macro.html)
+
+[郝斌C语言学习：概述、预备知识](https://www.yidajiabei.xyz/blog/2021/haobin-c-0.html)
 
 [练习《HTML5权威指南》](https://www.yidajiabei.xyz/blog/2021/definitive-guide-to-html5.html)
-
-[使用 Org Mode 写博客](https://www.yidajiabei.xyz/blog/2021/org-mode-blog.html)
 
 ---end---
 
@@ -21,7 +23,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 10 Dec 2021 01:01:44 GMT
+⏰ Updated on Fri, 10 Dec 2021 06:22:30 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
