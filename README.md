@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████████▁▁   94.12 %
+Annual balance    ████████████████████████████▁▁   94.18 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-12-10 20:29:45 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-12-11 02:22:10 | Automatic update via Github Actions)*
+
+[BIOS 因何而存在](https://www.yidajiabei.xyz/blog/2021/why-bios.html)
+
+[用 Puppeteer 下载网页 pdf 版本](https://www.yidajiabei.xyz/blog/2021/play-puppeteer.html)
 
 [使用 Org-mode 为文本添加高亮](https://www.yidajiabei.xyz/blog/2021/org-mode-macro.html)
-
-[郝斌C语言学习：概述、预备知识](https://www.yidajiabei.xyz/blog/2021/haobin-c-0.html)
-
-[练习《HTML5权威指南》](https://www.yidajiabei.xyz/blog/2021/definitive-guide-to-html5.html)
 
 ---end---
 
@@ -23,7 +23,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Fri, 10 Dec 2021 12:29:35 GMT
+⏰ Updated on Fri, 10 Dec 2021 18:21:59 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
