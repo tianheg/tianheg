@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████████████████████████████▁▁   94.46 %
+Annual balance    ████████████████████████████▁▁   94.53 %
 
 - ⚡ HTML, CSS, JavaScript.
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -9,13 +9,13 @@ Annual balance    ████████████████████�
 
 ---start---
 
-*Recently updated articles (Last updated:2021-12-12 02:21:23 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2021-12-12 09:04:28 | Automatic update via Github Actions)*
 
-[BIOS 因何而存在](https://www.yidajiabei.xyz/blog/2021/why-bios.html)
+[牧羊少年奇幻之旅](https://www.yidajiabei.xyz/blog/2021/o-alquimista.html)
 
-[用 Puppeteer 下载网页 pdf 版本](https://www.yidajiabei.xyz/blog/2021/play-puppeteer.html)
+[极简个性心理学](https://www.yidajiabei.xyz/blog/2021/making-sence-of-people.html)
 
-[使用 Org-mode 为文本添加高亮](https://www.yidajiabei.xyz/blog/2021/org-mode-macro.html)
+[Git Add Files to A Commit Except A Single File](https://www.yidajiabei.xyz/blog/2021/git-add-files-to-commit-except-file.html)
 
 ---end---
 
@@ -23,7 +23,7 @@ Annual balance    ████████████████████�
 
 ---
 
-⏰ Updated on Sat, 11 Dec 2021 18:21:11 GMT
+⏰ Updated on Sun, 12 Dec 2021 01:04:15 GMT
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
