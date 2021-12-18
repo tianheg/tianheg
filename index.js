@@ -23,23 +23,11 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
 - 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg)!
 
----start---
-
-## 最近更新文章(更新时间:2021-01-26 15:18:07 | 通过Github Actions自动更新)
-
-[2021 年第 4 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-4/)
-
-[Hugo 语法高亮](https://blog.yidajiabei.xyz/posts/hugo-syntax-highlighting/)
-
-[2021 年第 3 周问题汇总](https://blog.yidajiabei.xyz/posts/question-2021-3/)
-
----end---
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-⏰ Updated on ${new Date().toUTCString()}
+⏰ Updated on ${new Date().toLocaleString()}
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 

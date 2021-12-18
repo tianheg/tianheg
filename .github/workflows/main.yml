@@ -16,14 +16,6 @@ jobs:
         node-version: '14.x'
     - name: Update README.md
       run: node index.js > README.md
-    - name: Install dependecies
-      uses: tianheg/github-actions@pipenv
-      with:
-        command: install --dev # Install all dependencies, including development ones
-    - name: Build
-      uses: tianheg/github-actions@pipenv
-      with:
-        command: run build
     - name: Commit change & Push
       run: |
           git diff
