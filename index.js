@@ -27,7 +27,7 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 ---
 
-⏰ Updated on ${new Date().toLocaleString()}
+⏰ Updated on ${new Date().toString()}
 
 [How this works](https://github.com/tianheg/tianheg/issues/1)
 
