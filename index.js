@@ -28,5 +28,5 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 ---
 
-⏰ Updated on ${new Date().toString()}`;
+⏰ Updated on ${new Date().toUTCString()}`;
 console.log(readme)
