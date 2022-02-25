@@ -12,6 +12,3 @@ build = "python blog-rss.py"
 requests = "2.25.1"
 feedparser = "6.0.2"
 pytz = "2020.5"
-
-[requires]
-python_version = "3.10"
