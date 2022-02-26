@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.35 %
+Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.42 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,19 @@ Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-02-26 09:04:01 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-02-26 14:22:16 | Automatic update via Github Actions)*
+
+[论独立思考](https://www.yidajiabei.xyz/posts/talk-about-thinking/)
+
+[crontab EOF错误](https://www.yidajiabei.xyz/posts/crontab-eof-error/)
+
+[使用 ox-hugo 构建 Hugo blog 工作流](https://www.yidajiabei.xyz/posts/ox-hugo-blog/)
+
+[如何思考解决问题](https://www.yidajiabei.xyz/posts/how-to-solve-problems/)
+
+[数据结构（C语言版）](https://www.yidajiabei.xyz/posts/data-structure-c/)
+
+[为自己选择键盘](https://www.yidajiabei.xyz/posts/keyboard/)
 
 [学习 HTML](https://www.yidajiabei.xyz/posts/html/)
 
@@ -18,19 +30,7 @@ Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 [学习《web.dev CSS 教程》](https://www.yidajiabei.xyz/posts/css-web-dev/)
 
-[CSS：阻止元素溢出](https://www.yidajiabei.xyz/posts/css-prevent-overflow/)
-
-[Arch Linux 下使用 Docker MySQL 占用过高内存](https://www.yidajiabei.xyz/posts/docker-mysql-too-much-memory-archlinux/)
-
-[TK 教主：个人成长](https://www.yidajiabei.xyz/posts/tombkeeper-personal-development/)
-
-[搭建开发环境](https://www.yidajiabei.xyz/posts/setup-dev-env/)
-
-[Docker 基本使用](https://www.yidajiabei.xyz/posts/docker/)
-
-[使用 Docker Nginx](https://www.yidajiabei.xyz/posts/nginx-docker/)
-
-[网站性能优化（一）：使用腾讯云对象存储 COS 做博客图床，CDN 加速](https://www.yidajiabei.xyz/posts/wpo-1-image-tencent-cos/)
+[自建代码托管平台](https://www.yidajiabei.xyz/posts/git-gitea/)
 
 ---end---
 
@@ -38,4 +38,4 @@ Annual balance    ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---
 
-⏰ Updated on Sat, 26 Feb 2022 01:03:47 GMT
+⏰ Updated on Sat, 26 Feb 2022 06:21:59 GMT
