@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.00 %
+Annual balance    █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.06 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,7 @@ Annual balance    █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-03-04 09:20:12 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-03-04 14:22:42 | Automatic update via Github Actions)*
 
 [为网站和邮件设计更舒适的链接效果](https://www.yidajiabei.xyz/posts/designing-better-links-websites-emails-guideline/)
 
@@ -26,11 +26,11 @@ Annual balance    █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 [数据结构（C语言版）](https://www.yidajiabei.xyz/posts/data-structure-c/)
 
+[How I read](https://www.yidajiabei.xyz/posts/slava-akhmechet-how-i-read/)
+
+[How to Make Yourself Into a Learning Machine](https://www.yidajiabei.xyz/posts/simon-eskildsen-how-to-build-a-learning-machine/)
+
 [为自己选择键盘](https://www.yidajiabei.xyz/posts/keyboard/)
-
-[学习 HTML](https://www.yidajiabei.xyz/posts/html/)
-
-[牛客前端笔试题总结（零）](https://www.yidajiabei.xyz/posts/nowcoder-note-0/)
 
 ---end---
 
@@ -38,4 +38,4 @@ Annual balance    █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---
 
-⏰ Updated on Fri, 04 Mar 2022 01:19:58 GMT
+⏰ Updated on Fri, 04 Mar 2022 06:22:29 GMT
