@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.35 %
+Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.42 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,11 +10,13 @@ Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-03-16 14:23:22 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-03-16 20:31:19 | Automatic update via Github Actions)*
 
 [一个嵌套的梦境](https://www.yidajiabei.xyz/posts/nested-dreamland/)
 
 [总结 0307 到 0315](https://www.yidajiabei.xyz/posts/review-2022-0307-0315/)
+
+[文化苦旅](https://www.yidajiabei.xyz/posts/yuqiuyu-cultural-travails/)
 
 [蒂凡尼的早餐 Breakfast at Tiffany’s](https://www.yidajiabei.xyz/posts/breakfast-at-tiffanys/)
 
@@ -30,12 +32,10 @@ Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 [使用 ox-hugo 构建 Hugo blog 工作流](https://www.yidajiabei.xyz/posts/ox-hugo-blog/)
 
-[如何思考解决问题](https://www.yidajiabei.xyz/posts/how-to-solve-problems/)
-
 ---end---
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-⏰ Updated on Wed, 16 Mar 2022 06:23:07 GMT
+⏰ Updated on Wed, 16 Mar 2022 12:31:06 GMT
