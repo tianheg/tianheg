@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.89 %
+Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.95 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,7 @@ Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-03-18 14:23:18 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-03-18 19:34:26 | Automatic update via Github Actions)*
 
 [一个嵌套的梦境](https://www.yidajiabei.xyz/posts/nested-dreamland/)
 
@@ -38,4 +38,5 @@ Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---
 
-⏰ Updated on Fri, 18 Mar 2022 06:23:02 GMT
+✈️ [Try GitHub new Project](https://github.com/users/tianheg/projects/2)
+💬 [Ask Me Anything!](https://github.com/tianheg/tianheg/discussions)
