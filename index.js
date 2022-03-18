@@ -32,5 +32,6 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 
 ---
 
-⏰ Updated on ${new Date().toUTCString()}`;
+✈️ [Try GitHub new Project](https://github.com/users/tianheg/projects/2)
+💬 [Ask Me Anything!](https://github.com/tianheg/tianheg/discussions)`;
 console.log(readme)
