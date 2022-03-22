@@ -22,7 +22,7 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
 - :email: [me@yidajiabei.xyz](mailto:me@yidajiabei.xyz).
-- 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg)!
+- 💰 Support my work [here](https://github.com/tianheg/sponsor)
 
 ---start---
 
