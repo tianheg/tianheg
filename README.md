@@ -3,14 +3,14 @@
 
 Annual balance    ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   22.04 %
 
-- ⚡ HTML5, CSS3, JavaScript(ES6).
-- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
-- :email: [me@yidajiabei.xyz](mailto:me@yidajiabei.xyz).
+- ⚡ HTML5, CSS3, JavaScript(ES6)
+- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg)
+- ✉️ [me@yidajiabei.xyz](mailto:me@yidajiabei.xyz)
 - 💰 Support my work [here](https://github.com/tianheg/sponsor)
 
 ---start---
 
-*Recently updated articles (Last updated:2022-03-22 18:35:05 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-03-22 18:37:55 | Automatic update via Github Actions)*
 
 [一个嵌套的梦境](https://www.yidajiabei.xyz/posts/nested-dreamland/)
 
