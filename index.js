@@ -19,9 +19,9 @@ const readme = `
 
 Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(2)} %
 
-- ⚡ HTML5, CSS3, JavaScript(ES6).
-- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
-- :email: [me@yidajiabei.xyz](mailto:me@yidajiabei.xyz).
+- ⚡ HTML5, CSS3, JavaScript(ES6)
+- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg)
+- ✉️ [me@yidajiabei.xyz](mailto:me@yidajiabei.xyz)
 - 💰 Support my work [here](https://github.com/tianheg/sponsor)
 
 ---start---
