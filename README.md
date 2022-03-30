@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.18 %
+Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.25 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6)
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg)
@@ -10,7 +10,9 @@ Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-03-30 14:25:17 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-03-30 20:34:59 | Automatic update via Github Actions)*
+
+[小偷家族](https://www.yidajiabei.xyz/posts/shoplifters/)
 
 [黑客帝国系列](https://www.yidajiabei.xyz/posts/the-matrix/)
 
@@ -29,8 +31,6 @@ Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁�
 [总结2022年0201-0306](https://www.yidajiabei.xyz/posts/review-2022-0201-0306/)
 
 [为网站和邮件设计更舒适的链接效果](https://www.yidajiabei.xyz/posts/designing-better-links-websites-emails-guideline/)
-
-[让我成长](https://www.yidajiabei.xyz/posts/make-me-grow/)
 
 ---end---
 
