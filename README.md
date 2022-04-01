@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
 
-Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.80 %
+Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.87 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6)
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg)
@@ -10,7 +10,7 @@ Annual balance    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-01 20:37:53 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-02 02:24:30 | Automatic update via Github Actions)*
 
 [小偷家族](https://www.yidajiabei.xyz/posts/shoplifters/)
 
