@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `
-<h2>Hi, I'm Jim Gao 👋👨‍💻</h2>
+<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
 Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(2)} %
 
@@ -33,5 +33,6 @@ Annual balance   ${progressBarOfThisYear}  ${(progressOfThisYear * 100).toFixed(
 ---
 
 ✈️ [Try GitHub new Project](https://github.com/users/tianheg/projects/2)
+
 💬 [Ask Me Anything!](https://github.com/tianheg/tianheg/discussions)`;
 console.log(readme)
