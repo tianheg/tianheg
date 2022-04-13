@@ -1,16 +1,16 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   27.97 %
+Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.02 %
 
-- ⚡ HTML5, CSS3, JavaScript(ES6)
-- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg)
-- ✉️ [me@yidajiabei.xyz](mailto:me@yidajiabei.xyz)
-- 💰 Support my work [here](https://github.com/tianheg/sponsor)
+- ⚡ HTML5, CSS3, JavaScript(ES6).
+- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
+- :email: [me@tianheg.xyz](mailto:me@tianheg.xyz).
+- 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg)!
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-13 09:46:50 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-13 14:24:46 | Automatic update via Github Actions)*
 
 [One more time, One more chance](https://www.yidajiabei.xyz/posts/one-more-time-one-more-chance/)
 
