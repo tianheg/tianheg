@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.57 %
+Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.64 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,11 @@ Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-15 14:24:42 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-15 20:32:45 | Automatic update via Github Actions)*
+
+[猫](https://www.yidajiabei.xyz/posts/the-cats/)
+
+[老友记](https://www.yidajiabei.xyz/posts/friends/)
 
 [One more time, One more chance](https://www.yidajiabei.xyz/posts/one-more-time-one-more-chance/)
 
@@ -27,10 +31,6 @@ Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁�
 [记梦](https://www.yidajiabei.xyz/posts/dream-20220323/)
 
 [一个嵌套的梦境](https://www.yidajiabei.xyz/posts/nested-dreamland/)
-
-[总结 0307 到 0315](https://www.yidajiabei.xyz/posts/review-2022-0307-0315/)
-
-[文化苦旅](https://www.yidajiabei.xyz/posts/yuqiuyu-cultural-travails/)
 
 ---end---
 
