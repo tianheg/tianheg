@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   29.46 %
+Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   29.53 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,11 @@ Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-18 20:34:27 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-19 02:25:38 | Automatic update via Github Actions)*
+
+[Memory](https://www.yidajiabei.xyz/posts/memory/)
+
+[六位王后](https://www.yidajiabei.xyz/posts/six-the-musical/)
 
 [在 GitHub Action 中使用 sed](https://www.yidajiabei.xyz/posts/sed-github-action/)
 
@@ -27,10 +31,6 @@ Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁�
 [小偷家族](https://www.yidajiabei.xyz/posts/shoplifters/)
 
 [黑客帝国系列](https://www.yidajiabei.xyz/posts/the-matrix/)
-
-[挽救计划](https://www.yidajiabei.xyz/posts/project-hail-mary/)
-
-[记梦](https://www.yidajiabei.xyz/posts/dream-20220323/)
 
 ---end---
 
