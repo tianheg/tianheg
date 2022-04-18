@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   29.39 %
+Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   29.46 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,7 @@ Annual balance    ████████▁▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-18 14:25:34 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-18 20:34:27 | Automatic update via Github Actions)*
 
 [在 GitHub Action 中使用 sed](https://www.yidajiabei.xyz/posts/sed-github-action/)
 
