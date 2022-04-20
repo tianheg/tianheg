@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.01 %
+Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.07 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,9 +10,13 @@ Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-20 20:37:39 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-21 02:24:44 | Automatic update via Github Actions)*
 
-[Arch Linux KDE桌面屏幕闪烁](https://www.yidajiabei.xyz/posts/arch-linux-screen-flickering/)
+[Arch Linux KDE 桌面屏幕闪烁](https://www.yidajiabei.xyz/posts/arch-linux-screen-flickering/)
+
+[随手拍 20220419](https://www.yidajiabei.xyz/posts/photos-2022-04-19/)
+
+[为自己开花](https://www.yidajiabei.xyz/posts/bloom-for-myself/)
 
 [Memory](https://www.yidajiabei.xyz/posts/memory/)
 
@@ -27,10 +31,6 @@ Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁�
 [One more time, One more chance](https://www.yidajiabei.xyz/posts/one-more-time-one-more-chance/)
 
 [秒速5厘米](https://www.yidajiabei.xyz/posts/5-centimeters-per-second/)
-
-[总结 0316 到 0402](https://www.yidajiabei.xyz/posts/review-2022-0316-0402/)
-
-[小偷家族](https://www.yidajiabei.xyz/posts/shoplifters/)
 
 ---end---
 
