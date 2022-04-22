@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.35 %
+Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.43 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,7 +10,13 @@ Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-22 02:27:23 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-22 09:54:47 | Automatic update via Github Actions)*
+
+[把代码像小说一样进行推荐](https://www.yidajiabei.xyz/posts/code-and-novel/)
+
+[定义「博客」和「笔记」](https://www.yidajiabei.xyz/posts/blog-note/)
+
+[将想法变成话语](https://www.yidajiabei.xyz/posts/mind-to-words/)
 
 [第二十二条军规](https://www.yidajiabei.xyz/posts/catch-22/)
 
@@ -26,18 +32,10 @@ Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁�
 
 [六位王后](https://www.yidajiabei.xyz/posts/six-the-musical/)
 
-[在 GitHub Action 中使用 sed](https://www.yidajiabei.xyz/posts/sed-github-action/)
-
-[老友记](https://www.yidajiabei.xyz/posts/friends/)
-
-[猫](https://www.yidajiabei.xyz/posts/the-cats/)
-
 ---end---
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
-✈️ [Try GitHub new Project](https://github.com/users/tianheg/projects/2)
 
 💬 [Ask Me Anything!](https://github.com/tianheg/tianheg/discussions)
