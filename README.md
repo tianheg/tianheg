@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.43 %
+Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.48 %
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
@@ -10,13 +10,17 @@ Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁�
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-22 09:54:47 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-22 14:25:22 | Automatic update via Github Actions)*
+
+[2001太空漫游](https://www.yidajiabei.xyz/posts/2001-a-space-odyssey/)
 
 [把代码像小说一样进行推荐](https://www.yidajiabei.xyz/posts/code-and-novel/)
 
 [定义「博客」和「笔记」](https://www.yidajiabei.xyz/posts/blog-note/)
 
 [将想法变成话语](https://www.yidajiabei.xyz/posts/mind-to-words/)
+
+[银河系漫游指南](https://www.yidajiabei.xyz/posts/hitchhiker-s-guide-to-galaxy/)
 
 [第二十二条军规](https://www.yidajiabei.xyz/posts/catch-22/)
 
@@ -27,10 +31,6 @@ Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁�
 [随手拍 20220419](https://www.yidajiabei.xyz/posts/photos-2022-04-19/)
 
 [为自己开花](https://www.yidajiabei.xyz/posts/bloom-for-myself/)
-
-[Memory](https://www.yidajiabei.xyz/posts/memory/)
-
-[六位王后](https://www.yidajiabei.xyz/posts/six-the-musical/)
 
 ---end---
 
