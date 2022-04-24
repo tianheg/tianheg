@@ -1,9 +1,7 @@
-name: update tianheg profile
+name: Update profile
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
   push:
       branches:
         - main
@@ -13,12 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: 'lts/*'
-    - name: Update README.md
-      run: node index.js > README.md
+
     - name: Install dependecies
       uses: tianheg/github-actions@pipenv
       with:
@@ -27,10 +20,15 @@ jobs:
       uses: tianheg/github-actions@pipenv
       with:
         command: run build
-    - name: Commit change & Push
+    - name: Commit files
       run: |
-          git diff
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am "bot: update README.md automatically"
-          git push -f origin main
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Add changes" -a || true
+        # The above command will fail if no changes were present, so we ignore
+        # the return code.
+    - name: Push changes
+      uses: tianheg/github-actions@push
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
