@@ -1,16 +1,14 @@
 
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-Annual balance    █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   31.10 %
-
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
-- :email: [me@tianheg.xyz](mailto:me@tianheg.xyz).
+- :email: me+at+tianheg.xyz.
 - 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg)!
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-24 20:32:06 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-04-24 20:55:59 | Automatic update via Github Actions)*
 
 [2001太空漫游](https://www.yidajiabei.xyz/posts/2001-a-space-odyssey/)
 
