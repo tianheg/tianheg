@@ -8,27 +8,27 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-04-24 21:04:20 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-07 23:40:58 | Automatic update via Github Actions)*
 
-[2001太空漫游](https://www.yidajiabei.xyz/posts/2001-a-space-odyssey/)
+[Where is my enthusiasm](https://www.yidajiabei.xyz/posts/where-is-my-enthusiasm/)
 
-[把代码像小说一样进行推荐](https://www.yidajiabei.xyz/posts/code-and-novel/)
+[五月随手拍](https://www.yidajiabei.xyz/posts/photos-2022-05/)
 
-[定义「博客」和「笔记」](https://www.yidajiabei.xyz/posts/blog-note/)
+[关于博客评论](https://www.yidajiabei.xyz/posts/blog-comment/)
 
-[将想法变成话语](https://www.yidajiabei.xyz/posts/mind-to-words/)
+[wemeet-bin 无法在 Wayland 下使用](https://www.yidajiabei.xyz/posts/arch-linux-wemeet-bin-wayland/)
 
-[银河系漫游指南](https://www.yidajiabei.xyz/posts/hitchhiker-s-guide-to-galaxy/)
+[读《妈妈的完美菜单》](https://www.yidajiabei.xyz/posts/moms-perfact-menu/)
 
-[第二十二条军规](https://www.yidajiabei.xyz/posts/catch-22/)
+[GitHub Action 文件权限问题](https://www.yidajiabei.xyz/posts/github-action-file-permission/)
 
-[生化危机系列](https://www.yidajiabei.xyz/posts/resident-evil-series/)
+[让我专注的拼图游戏](https://www.yidajiabei.xyz/posts/puzzle-play-kira/)
 
-[Arch Linux KDE 桌面屏幕闪烁](https://www.yidajiabei.xyz/posts/arch-linux-screen-flickering/)
+[优秀的人让我成为更好的自己](https://www.yidajiabei.xyz/posts/better-self/)
 
-[随手拍 20220419](https://www.yidajiabei.xyz/posts/photos-2022-04-19/)
+[中国移动套餐资费记录](https://www.yidajiabei.xyz/posts/china-mobile/)
 
-[为自己开花](https://www.yidajiabei.xyz/posts/bloom-for-myself/)
+[日志](https://www.yidajiabei.xyz/posts/20220427/)
 
 ---end---
 
