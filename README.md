@@ -8,7 +8,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-08 08:51:02 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-09 08:53:53 | Automatic update via Github Actions)*
+
+[李志《寻找》](https://www.yidajiabei.xyz/posts/lizhi-seek/)
 
 [Where is my enthusiasm](https://www.yidajiabei.xyz/posts/where-is-my-enthusiasm/)
 
@@ -27,8 +29,6 @@
 [优秀的人让我成为更好的自己](https://www.yidajiabei.xyz/posts/better-self/)
 
 [中国移动套餐资费记录](https://www.yidajiabei.xyz/posts/china-mobile/)
-
-[日志](https://www.yidajiabei.xyz/posts/20220427/)
 
 ---end---
 
