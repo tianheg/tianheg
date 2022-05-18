@@ -8,7 +8,11 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-17 08:53:19 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-18 08:43:56 | Automatic update via Github Actions)*
+
+[毕业照](https://www.yidajiabei.xyz/posts/graduation-photo/)
+
+[记第二次头晕](https://www.yidajiabei.xyz/posts/dizzy/)
 
 [李志《寻找》](https://www.yidajiabei.xyz/posts/lizhi-seek/)
 
@@ -25,10 +29,6 @@
 [GitHub Action 文件权限问题](https://www.yidajiabei.xyz/posts/github-action-file-permission/)
 
 [让我专注的拼图游戏](https://www.yidajiabei.xyz/posts/puzzle-play-kira/)
-
-[优秀的人让我成为更好的自己](https://www.yidajiabei.xyz/posts/better-self/)
-
-[中国移动套餐资费记录](https://www.yidajiabei.xyz/posts/china-mobile/)
 
 ---end---
 
