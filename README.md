@@ -8,7 +8,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-20 08:55:12 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-21 08:49:54 | Automatic update via Github Actions)*
 
 [毕业照](https://www.yidajiabei.xyz/posts/graduation-photo/)
 
