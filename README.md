@@ -8,7 +8,13 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-21 08:49:54 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-22 08:51:53 | Automatic update via Github Actions)*
+
+[CSS 取代 br](https://www.yidajiabei.xyz/posts/css-replace-br-tag/)
+
+[You Will Be Found](https://www.yidajiabei.xyz/posts/you-will-be-found/)
+
+[和妈妈的一次聊天](https://www.yidajiabei.xyz/posts/talk-with-mom/)
 
 [毕业照](https://www.yidajiabei.xyz/posts/graduation-photo/)
 
@@ -23,12 +29,6 @@
 [关于博客评论](https://www.yidajiabei.xyz/posts/blog-comment/)
 
 [wemeet-bin 无法在 Wayland 下使用](https://www.yidajiabei.xyz/posts/arch-linux-wemeet-bin-wayland/)
-
-[读《妈妈的完美菜单》](https://www.yidajiabei.xyz/posts/moms-perfact-menu/)
-
-[GitHub Action 文件权限问题](https://www.yidajiabei.xyz/posts/github-action-file-permission/)
-
-[让我专注的拼图游戏](https://www.yidajiabei.xyz/posts/puzzle-play-kira/)
 
 ---end---
 
