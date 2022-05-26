@@ -8,7 +8,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-25 08:55:59 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-26 08:57:34 | Automatic update via Github Actions)*
+
+[展开、收缩 details 标签](https://www.yidajiabei.xyz/posts/html-css-js-feed-toggle-detail/)
 
 [CSS 取代 br](https://www.yidajiabei.xyz/posts/css-replace-br-tag/)
 
@@ -27,8 +29,6 @@
 [五月随手拍](https://www.yidajiabei.xyz/posts/photos-2022-05/)
 
 [关于博客评论](https://www.yidajiabei.xyz/posts/blog-comment/)
-
-[wemeet-bin 无法在 Wayland 下使用](https://www.yidajiabei.xyz/posts/arch-linux-wemeet-bin-wayland/)
 
 ---end---
 
