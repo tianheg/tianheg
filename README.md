@@ -8,9 +8,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-28 08:52:51 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-28 14:33:09 | Automatic update via Github Actions)*
 
-[《献给阿尔吉浓的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
+[《献给阿尔吉侬的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
 
 [展开、收缩 details 标签](https://www.yidajiabei.xyz/posts/html-css-js-feed-toggle-detail/)
 
