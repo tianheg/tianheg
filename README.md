@@ -8,7 +8,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-27 08:53:00 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-28 08:52:51 | Automatic update via Github Actions)*
+
+[《献给阿尔吉浓的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
 
 [展开、收缩 details 标签](https://www.yidajiabei.xyz/posts/html-css-js-feed-toggle-detail/)
 
@@ -27,8 +29,6 @@
 [Where is my enthusiasm](https://www.yidajiabei.xyz/posts/where-is-my-enthusiasm/)
 
 [五月随手拍](https://www.yidajiabei.xyz/posts/photos-2022-05/)
-
-[关于博客评论](https://www.yidajiabei.xyz/posts/blog-comment/)
 
 ---end---
 
