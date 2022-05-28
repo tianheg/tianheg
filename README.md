@@ -2,9 +2,9 @@
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
 - ⚡ HTML5, CSS3, JavaScript(ES6).
-- 🔑 GPG key hosted here at [GitHub](https://github.com/tianheg.gpg).
 - 📧 me+at+tianheg.xyz.
-- 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg)!
+- 📖 I enjoy [**READ**ing](https://www.yidajiabei.xyz/tags/reading/) [books](https://www.yidajiabei.xyz/read/).
+- 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg).
 
 ---start---
 
