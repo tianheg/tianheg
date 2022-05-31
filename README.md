@@ -9,7 +9,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-05-30 09:47:35 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-05-31 09:45:56 | Automatic update via Github Actions)*
 
 [《献给阿尔吉侬的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
 
