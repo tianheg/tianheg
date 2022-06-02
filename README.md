@@ -9,7 +9,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-01 09:59:49 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-02 09:48:41 | Automatic update via Github Actions)*
 
 [爱，死亡和机器人系列](https://www.yidajiabei.xyz/posts/love-death-robots/)
 
