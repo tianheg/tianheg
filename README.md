@@ -9,7 +9,11 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-05 09:46:25 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-06 09:44:14 | Automatic update via Github Actions)*
+
+[Arch Linux 映射按键](https://www.yidajiabei.xyz/posts/arch-linux-remap-key/)
+
+[杭州日记：0603-0604](https://www.yidajiabei.xyz/posts/hangzhou-0603-0604/)
 
 [爱，死亡和机器人系列](https://www.yidajiabei.xyz/posts/love-death-robots/)
 
@@ -26,10 +30,6 @@
 [毕业照](https://www.yidajiabei.xyz/posts/graduation-photo/)
 
 [记第二次头晕](https://www.yidajiabei.xyz/posts/dizzy/)
-
-[李志《寻找》](https://www.yidajiabei.xyz/posts/lizhi-seek/)
-
-[Where is my enthusiasm](https://www.yidajiabei.xyz/posts/where-is-my-enthusiasm/)
 
 ---end---
 
