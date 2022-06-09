@@ -9,7 +9,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-08 09:39:47 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-09 09:39:29 | Automatic update via Github Actions)*
 
 [Arch Linux 映射按键](https://www.yidajiabei.xyz/posts/arch-linux-remap-key/)
 
