@@ -9,7 +9,11 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-10 09:51:46 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-11 09:40:15 | Automatic update via Github Actions)*
+
+[Linus Torvalds《只是为了好玩》](https://www.yidajiabei.xyz/posts/just-for-fun/)
+
+[有一颗柔软的内心](https://www.yidajiabei.xyz/posts/soft-heart/)
 
 [Arch Linux 映射按键](https://www.yidajiabei.xyz/posts/arch-linux-remap-key/)
 
@@ -26,10 +30,6 @@
 [You Will Be Found](https://www.yidajiabei.xyz/posts/you-will-be-found/)
 
 [和妈妈的一次聊天](https://www.yidajiabei.xyz/posts/talk-with-mom/)
-
-[毕业照](https://www.yidajiabei.xyz/posts/graduation-photo/)
-
-[记第二次头晕](https://www.yidajiabei.xyz/posts/dizzy/)
 
 ---end---
 
