@@ -9,7 +9,13 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-15 09:48:54 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-16 09:44:05 | Automatic update via Github Actions)*
+
+[Kishi Bashi-I Am The Antichrist To You](https://www.yidajiabei.xyz/posts/kishi-bashi-i-am-the-antichrist-to-you/)
+
+[归档「自说自话」](https://www.yidajiabei.xyz/posts/archive-nonsense-fun/)
+
+[Nginx(with nginx-proxy) 设置 Cache-Control](https://www.yidajiabei.xyz/posts/nginx-cache-control/)
 
 [Linus Torvalds《只是为了好玩》](https://www.yidajiabei.xyz/posts/just-for-fun/)
 
@@ -24,12 +30,6 @@
 [《献给阿尔吉侬的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
 
 [展开、收缩 details 标签](https://www.yidajiabei.xyz/posts/html-css-js-feed-toggle-detail/)
-
-[CSS 取代 br](https://www.yidajiabei.xyz/posts/css-replace-br-tag/)
-
-[You Will Be Found](https://www.yidajiabei.xyz/posts/you-will-be-found/)
-
-[和妈妈的一次聊天](https://www.yidajiabei.xyz/posts/talk-with-mom/)
 
 ---end---
 
