@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-19 09:51:02 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-20 09:45:22 | Automatic update via Github Actions)*
+
+[自由第一步：注销域名备案](https://www.yidajiabei.xyz/posts/first-step-about-free/)
 
 [Kishi Bashi-I Am The Antichrist To You](https://www.yidajiabei.xyz/posts/kishi-bashi-i-am-the-antichrist-to-you/)
 
@@ -28,8 +30,6 @@
 [爱，死亡和机器人系列](https://www.yidajiabei.xyz/posts/love-death-robots/)
 
 [《献给阿尔吉侬的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
-
-[展开、收缩 details 标签](https://www.yidajiabei.xyz/posts/html-css-js-feed-toggle-detail/)
 
 ---end---
 
