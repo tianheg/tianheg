@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-20 09:45:22 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-21 09:47:24 | Automatic update via Github Actions)*
+
+[我找到一份工作了！](https://www.yidajiabei.xyz/posts/i-found-a-job/)
 
 [自由第一步：注销域名备案](https://www.yidajiabei.xyz/posts/first-step-about-free/)
 
@@ -28,8 +30,6 @@
 [杭州日记：0603-0604](https://www.yidajiabei.xyz/posts/hangzhou-0603-0604/)
 
 [爱，死亡和机器人系列](https://www.yidajiabei.xyz/posts/love-death-robots/)
-
-[《献给阿尔吉侬的花束》与我的梦境](https://www.yidajiabei.xyz/posts/flowers-for-algernon/)
 
 ---end---
 
