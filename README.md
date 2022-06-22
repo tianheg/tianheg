@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-21 09:47:24 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-22 09:55:31 | Automatic update via Github Actions)*
+
+[看《操作系统革命》](https://www.yidajiabei.xyz/posts/revolution-os/)
 
 [我找到一份工作了！](https://www.yidajiabei.xyz/posts/i-found-a-job/)
 
@@ -28,8 +30,6 @@
 [Arch Linux 映射按键](https://www.yidajiabei.xyz/posts/arch-linux-remap-key/)
 
 [杭州日记：0603-0604](https://www.yidajiabei.xyz/posts/hangzhou-0603-0604/)
-
-[爱，死亡和机器人系列](https://www.yidajiabei.xyz/posts/love-death-robots/)
 
 ---end---
 
