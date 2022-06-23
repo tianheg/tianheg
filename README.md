@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-22 09:55:31 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-23 09:45:14 | Automatic update via Github Actions)*
+
+[看《互联网之子：亚伦 · 斯沃茨的故事》](https://www.yidajiabei.xyz/posts/the-internets-own-boy/)
 
 [看《操作系统革命》](https://www.yidajiabei.xyz/posts/revolution-os/)
 
@@ -28,8 +30,6 @@
 [有一颗柔软的内心](https://www.yidajiabei.xyz/posts/soft-heart/)
 
 [Arch Linux 映射按键](https://www.yidajiabei.xyz/posts/arch-linux-remap-key/)
-
-[杭州日记：0603-0604](https://www.yidajiabei.xyz/posts/hangzhou-0603-0604/)
 
 ---end---
 
