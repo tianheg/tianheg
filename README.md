@@ -9,7 +9,11 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-23 09:45:14 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-24 09:46:56 | Automatic update via Github Actions)*
+
+[记账 2.4 年](https://www.yidajiabei.xyz/posts/bookkeeping-for-2.4-years/)
+
+[读《索拉里斯星》](https://www.yidajiabei.xyz/posts/read-solaris/)
 
 [看《互联网之子：亚伦 · 斯沃茨的故事》](https://www.yidajiabei.xyz/posts/the-internets-own-boy/)
 
@@ -26,10 +30,6 @@
 [Nginx(with nginx-proxy) 设置 Cache-Control](https://www.yidajiabei.xyz/posts/nginx-cache-control/)
 
 [Linus Torvalds《只是为了好玩》](https://www.yidajiabei.xyz/posts/just-for-fun/)
-
-[有一颗柔软的内心](https://www.yidajiabei.xyz/posts/soft-heart/)
-
-[Arch Linux 映射按键](https://www.yidajiabei.xyz/posts/arch-linux-remap-key/)
 
 ---end---
 
