@@ -9,7 +9,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-25 09:51:44 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-26 09:54:48 | Automatic update via Github Actions)*
 
 [记账 2.4 年](https://www.yidajiabei.xyz/posts/bookkeeping-for-2.4-years/)
 
