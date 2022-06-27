@@ -9,7 +9,13 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-06-26 09:54:48 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-06-27 09:54:44 | Automatic update via Github Actions)*
+
+[我对父亲说“不去！”](https://www.yidajiabei.xyz/posts/dream-of-father/)
+
+[在 Ubuntu 22.04 上部署 fava（beancount 记账软件的 Web 版本）](https://www.yidajiabei.xyz/posts/deploy-fava-on-ubuntu-22-04/)
+
+[租房子一些应该注意的点](https://www.yidajiabei.xyz/posts/rent-house/)
 
 [记账 2.4 年](https://www.yidajiabei.xyz/posts/bookkeeping-for-2.4-years/)
 
@@ -24,12 +30,6 @@
 [自由第一步：注销域名备案](https://www.yidajiabei.xyz/posts/first-step-about-free/)
 
 [Kishi Bashi-I Am The Antichrist To You](https://www.yidajiabei.xyz/posts/kishi-bashi-i-am-the-antichrist-to-you/)
-
-[归档「自说自话」](https://www.yidajiabei.xyz/posts/archive-nonsense-fun/)
-
-[Nginx(with nginx-proxy) 设置 Cache-Control](https://www.yidajiabei.xyz/posts/nginx-cache-control/)
-
-[Linus Torvalds《只是为了好玩》](https://www.yidajiabei.xyz/posts/just-for-fun/)
 
 ---end---
 
