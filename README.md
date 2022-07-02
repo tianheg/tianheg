@@ -9,7 +9,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-01 10:01:30 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-02 09:48:09 | Automatic update via Github Actions)*
 
 [我对父亲说“不去！”](https://www.yidajiabei.xyz/posts/dream-of-father/)
 
