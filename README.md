@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-02 09:48:09 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-03 09:56:45 | Automatic update via Github Actions)*
+
+[看《初恋那件小事》](https://www.yidajiabei.xyz/posts/first-love/)
 
 [我对父亲说“不去！”](https://www.yidajiabei.xyz/posts/dream-of-father/)
 
@@ -28,8 +30,6 @@
 [我找到一份工作了！](https://www.yidajiabei.xyz/posts/i-found-a-job/)
 
 [自由第一步：注销域名备案](https://www.yidajiabei.xyz/posts/first-step-about-free/)
-
-[Kishi Bashi-I Am The Antichrist To You](https://www.yidajiabei.xyz/posts/kishi-bashi-i-am-the-antichrist-to-you/)
 
 ---end---
 
