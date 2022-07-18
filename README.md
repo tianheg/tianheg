@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-17 09:58:45 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-18 09:57:03 | Automatic update via Github Actions)*
+
+[瓦格纳：歌剧帷幕下的爱](https://www.yidajiabei.xyz/posts/music-wagner-love-behind-the-curtain-of-opera/)
 
 [看《初恋那件小事》](https://www.yidajiabei.xyz/posts/first-love/)
 
@@ -28,8 +30,6 @@
 [看《操作系统革命》](https://www.yidajiabei.xyz/posts/revolution-os/)
 
 [我找到一份工作了！](https://www.yidajiabei.xyz/posts/i-found-a-job/)
-
-[自由第一步：注销域名备案](https://www.yidajiabei.xyz/posts/first-step-about-free/)
 
 ---end---
 
