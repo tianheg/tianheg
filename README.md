@@ -9,7 +9,7 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-19 10:05:40 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-20 09:51:33 | Automatic update via Github Actions)*
 
 [瓦格纳：歌剧帷幕下的爱](https://www.yidajiabei.xyz/posts/music-wagner-love-behind-the-curtain-of-opera/)
 
