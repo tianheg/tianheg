@@ -9,7 +9,11 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-24 10:01:00 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-25 09:53:33 | Automatic update via Github Actions)*
+
+[七月杭州](https://www.yidajiabei.xyz/posts/hangzhou-07/)
+
+[周云蓬专辑《瓦尔登湖》](https://www.yidajiabei.xyz/posts/zhou-yun-peng-walden/)
 
 [瓦格纳：歌剧帷幕下的爱](https://www.yidajiabei.xyz/posts/music-wagner-love-behind-the-curtain-of-opera/)
 
@@ -26,10 +30,6 @@
 [读《索拉里斯星》](https://www.yidajiabei.xyz/posts/read-solaris/)
 
 [看《互联网之子：亚伦 · 斯沃茨的故事》](https://www.yidajiabei.xyz/posts/the-internets-own-boy/)
-
-[看《操作系统革命》](https://www.yidajiabei.xyz/posts/revolution-os/)
-
-[我找到一份工作了！](https://www.yidajiabei.xyz/posts/i-found-a-job/)
 
 ---end---
 
