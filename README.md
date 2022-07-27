@@ -4,7 +4,7 @@
 - ⚡ HTML5, CSS3, JavaScript(ES6).
 - 📧 me+at+tianheg.xyz.
 - 📖 I enjoy [**READ**ing](https://www.yidajiabei.xyz/tags/reading/), [books](https://www.yidajiabei.xyz/read/) I've read and want to read.
-- 📝 I record [notes](https://note.tianheg.xyz), I [bloging](https://www.yidajiabei.xyz).
+- 📝 I record notes with [Wiki.js](https://js.wiki/) locally, I [bloging](https://www.yidajiabei.xyz).
 - 💰 Support my work on [Patreon](https://www.patreon.com/tianheg) or [Afdian](https://afdian.net/@tianheg).
 
 ---start---
