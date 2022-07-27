@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-27 09:58:23 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-27 23:59:51 | Automatic update via Github Actions)*
+
+[CSS Day 1](https://www.yidajiabei.xyz/posts/css-day-1/)
 
 [七月杭州](https://www.yidajiabei.xyz/posts/hangzhou-07/)
 
@@ -28,8 +30,6 @@
 [记账 2.4 年](https://www.yidajiabei.xyz/posts/bookkeeping-for-2.4-years/)
 
 [读《索拉里斯星》](https://www.yidajiabei.xyz/posts/read-solaris/)
-
-[看《互联网之子：亚伦 · 斯沃茨的故事》](https://www.yidajiabei.xyz/posts/the-internets-own-boy/)
 
 ---end---
 
