@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-28 09:51:46 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-29 10:01:10 | Automatic update via Github Actions)*
+
+[看《丛林》想远方](https://www.yidajiabei.xyz/posts/jungle-2017/)
 
 [CSS Day 1](https://www.yidajiabei.xyz/posts/css-day-1/)
 
@@ -28,8 +30,6 @@
 [租房子一些应该注意的点](https://www.yidajiabei.xyz/posts/rent-house/)
 
 [记账 2.4 年](https://www.yidajiabei.xyz/posts/bookkeeping-for-2.4-years/)
-
-[读《索拉里斯星》](https://www.yidajiabei.xyz/posts/read-solaris/)
 
 ---end---
 
