@@ -9,7 +9,15 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-07-29 10:01:10 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-07-30 09:51:55 | Automatic update via Github Actions)*
+
+[CSS Day 2](https://www.yidajiabei.xyz/posts/css-day-2/)
+
+[面粉疙瘩](https://www.yidajiabei.xyz/posts/pimples-of-flour/)
+
+[读《寂寞的游戏》](https://www.yidajiabei.xyz/posts/book-the-lonely-game/)
+
+[读《以鸟兽之名》](https://www.yidajiabei.xyz/posts/book-in-the-name-of-birds-and-beasts/)
 
 [看《丛林》想远方](https://www.yidajiabei.xyz/posts/jungle-2017/)
 
@@ -22,14 +30,6 @@
 [瓦格纳：歌剧帷幕下的爱](https://www.yidajiabei.xyz/posts/music-wagner-love-behind-the-curtain-of-opera/)
 
 [看《初恋那件小事》](https://www.yidajiabei.xyz/posts/first-love/)
-
-[我对父亲说“不去！”](https://www.yidajiabei.xyz/posts/dream-of-father/)
-
-[在 Ubuntu 22.04 上部署 fava（beancount 记账软件的 Web 版本）](https://www.yidajiabei.xyz/posts/deploy-fava-on-ubuntu-22-04/)
-
-[租房子一些应该注意的点](https://www.yidajiabei.xyz/posts/rent-house/)
-
-[记账 2.4 年](https://www.yidajiabei.xyz/posts/bookkeeping-for-2.4-years/)
 
 ---end---
 
