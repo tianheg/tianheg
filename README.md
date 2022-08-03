@@ -9,7 +9,9 @@
 
 ---start---
 
-*Recently updated articles (Last updated:2022-08-02 10:13:01 | Automatic update via Github Actions)*
+*Recently updated articles (Last updated:2022-08-03 09:54:34 | Automatic update via Github Actions)*
+
+[Rebecca](https://www.yidajiabei.xyz/posts/rebecca-musical/)
 
 [CSS Day 2](https://www.yidajiabei.xyz/posts/css-day-2/)
 
@@ -28,8 +30,6 @@
 [周云蓬专辑《瓦尔登湖》](https://www.yidajiabei.xyz/posts/zhou-yun-peng-walden/)
 
 [瓦格纳：歌剧帷幕下的爱](https://www.yidajiabei.xyz/posts/music-wagner-love-behind-the-curtain-of-opera/)
-
-[看《初恋那件小事》](https://www.yidajiabei.xyz/posts/first-love/)
 
 ---end---
 
