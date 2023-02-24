@@ -85,10 +85,6 @@ _Note: If you are deploying this project yourself, the private contributions wil
 
 [![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=github-readme-stats)](https://github.com/tianheg/github-readme-stats)
 
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=til)](https://github.com/tianheg/til)
-
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=self)](https://github.com/tianheg/self)
-
 ## Top Languages Card
 
 _NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
@@ -112,7 +108,3 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 ### Compact Language Card Layout
 
 ![Top Languages Card](https://tianheg-readme-stats.vercel.app/api/top-langs/?username=tianheg&layout=compact)
-
-## Wakatime card
-
-![Wakatime card](https://tianheg-readme-stats.vercel.app/api/wakatime?username=tianheg)
