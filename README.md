@@ -14,6 +14,5 @@
 
 Projects I working on:
 
-<a href="https://github.com/tianheg/learning-tree"><img src="https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=learning-tree" /></a>
-
-[![README Card](https://tianheg-readme-stats.vercel.app/api/pin/?username=tianheg&repo=pop-up-reminder)](https://github.com/tianheg/pop-up-reminder)
+- [Learning Tree](https://github.com/tianheg/learning-tree)
+- [Pop-up Reminder](https://github.com/tianheg/pop-up-reminder)
