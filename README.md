@@ -10,7 +10,7 @@
 
 ---
 
-![GitHub Stats Card](https://tianheg-readme-stats.vercel.app/api?username=tianheg&show_icons=true)
+![GitHub Stats Card](https://readme-stats.tianheg.org/api?username=tianheg&show_icons=true)
 
 Projects I working on:
 
