@@ -1,6 +1,5 @@
 <h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
-- 🚀 My portfolio page is [tianhegao.com](https://tianhegao.com).
 - 📧 Welcome to email me (`me@tianhegao.com`).
 - 📖 I enjoy [**READ**ing](https://tianheg.xyz/tags/reading/).
 - 📝 I record [notes, blog](https://tianheg.xyz), Chinese mostly.
