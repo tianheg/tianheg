@@ -14,4 +14,4 @@
 Projects I working on:
 
 - [Learning Tree](https://github.com/tianheg/learning-tree)
-- [Pop-up Reminder](https://github.com/tianheg/pop-up-reminder)
+- [Mirrors China](https://github.com/tianheg/mirrors-china)
