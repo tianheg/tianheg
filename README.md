@@ -11,7 +11,4 @@
 
 ![GitHub Stats Card](https://readme-stats.tianheg.org/api?username=tianheg&show_icons=true)
 
-Projects I working on:
-
-- [Learning Tree](https://github.com/tianheg/learning-tree)
-- [Mirrors China](https://github.com/tianheg/mirrors-china)
+Projects I working on: <https://tianheg.xyz/code/#repos>
