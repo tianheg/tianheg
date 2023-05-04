@@ -11,7 +11,7 @@ const readme = `<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
 ![GitHub Stats Card](https://readme-stats.tianheg.org/api?username=tianheg&show_icons=true)
 
-## Projects I working on:
+## Projects I am working on:
 
 `;
 
