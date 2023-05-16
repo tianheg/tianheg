@@ -13,6 +13,7 @@
 
 ## Projects I am working on:
 
+- [.web](https://github.com/tianheg/.web) - Web related dotfiles
 - [OpenHackathon-Web](https://github.com/tianheg/OpenHackathon-Web) - Progressive Web App of Open Hackathon platform based on Next.js
 - [randomMDN](https://github.com/tianheg/randomMDN) - randomMDN
 - [running_page](https://github.com/tianheg/running_page) - Make your own running home page
@@ -21,5 +22,4 @@
 - [send-mail](https://github.com/tianheg/send-mail) - Check if you can send me emails properly
 - [cloudflare-domain-cname](https://github.com/tianheg/cloudflare-domain-cname) - Get domain tianheg.org's CNAME records through Cloudflare API, Worker
 - [tianheg](https://github.com/tianheg/tianheg) - GitHub profile
-- [.web](https://github.com/tianheg/.web) - 
 - [cloudflare](https://github.com/tianheg/cloudflare) - 
