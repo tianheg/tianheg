@@ -13,6 +13,7 @@
 
 ## Projects I am working on:
 
+- [cloudflare-nextjs-starter](https://github.com/tianheg/cloudflare-nextjs-starter) - 
 - [TZP](https://github.com/tianheg/TZP) - TorZillaPrint: Firefox & Tor Browser fingerprint testing
 - [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
@@ -22,4 +23,3 @@
 - [running](https://github.com/tianheg/running) - I'm running! 🏃
 - [steveshuo](https://github.com/tianheg/steveshuo) - 《Steve说》播客列表
 - [send-mail](https://github.com/tianheg/send-mail) - Check if you can send me emails properly
-- [cloudflare-domain-cname](https://github.com/tianheg/cloudflare-domain-cname) - Get domain tianheg.org's CNAME records through Cloudflare API, Worker
