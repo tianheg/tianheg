@@ -13,6 +13,7 @@
 
 ## Projects I am working on:
 
+- [dotfiles](https://github.com/tianheg/dotfiles) - 
 - [cloudflare-nextjs-starter](https://github.com/tianheg/cloudflare-nextjs-starter) - 
 - [TZP](https://github.com/tianheg/TZP) - TorZillaPrint: Firefox & Tor Browser fingerprint testing
 - [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
@@ -22,4 +23,3 @@
 - [randomMDN](https://github.com/tianheg/randomMDN) - randomMDN
 - [running](https://github.com/tianheg/running) - I'm running! 🏃
 - [steveshuo](https://github.com/tianheg/steveshuo) - 《Steve说》播客列表
-- [send-mail](https://github.com/tianheg/send-mail) - Check if you can send me emails properly
