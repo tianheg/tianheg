@@ -1,3 +1,10 @@
+import { graphql } from "@octokit/graphql";
+
+// env
+import dotenv from "dotenv";
+dotenv.config();
+
+// common
 const readme = `<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
 - 📧 Welcome to email me (<code>me@tianhegao.com</code>).
@@ -15,6 +22,35 @@ const readme = `<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 
 `;
 
+// getContributedRepos
+const graphqlWithAuth = graphql.defaults({
+  headers: {
+    authorization: `token ${process.env.GITHUB_TOKEN}`,
+  },
+});
+
+const query = `{
+  viewer {
+    repositoriesContributedTo(
+      first: 100
+      contributionTypes: [COMMIT, PULL_REQUEST, REPOSITORY]
+    ) {
+      totalCount
+      nodes {
+        nameWithOwner
+      }
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+    }
+  }
+}
+`;
+
+const { viewer } = await graphqlWithAuth(query);
+
+// getRecentUpdatedRepos
 const getRecentUpdatedRepos = async () => {
   const res = await fetch(
     "https://api.github.com/users/tianheg/repos?sort=updated&per_page=10"
@@ -24,11 +60,26 @@ const getRecentUpdatedRepos = async () => {
 };
 
 getRecentUpdatedRepos().then((data) => {
-  const repos = data
+  const recentUpdatedRepos = data
     .map(
       (repo) => `- [${repo.name}](${repo.html_url}) - ${repo.description || ""}`
     )
     .join("\n");
-  const readmeContent = readme + repos;
+  const contributedRepos = viewer.repositoriesContributedTo.nodes
+    .map(
+      (repo) =>
+        `- [${repo.nameWithOwner}](https://github.com/${repo.nameWithOwner})`
+    )
+    .join("\n");
+
+  const readmeContent =
+    readme +
+    recentUpdatedRepos +
+    `
+
+## Projects I contributed:
+
+` +
+    contributedRepos;
   console.log(readmeContent);
 });

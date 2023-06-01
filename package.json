@@ -1,0 +1,11 @@
+{
+  "name": "tianheg",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+		"@octokit/graphql": "^5.0.6"
+	},
+	"devDependencies": {
+		"dotenv": "^16.1.3"
+	}
+}
