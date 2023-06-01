@@ -48,7 +48,7 @@ jobs:
       - name: Update README
         run: node index.js > README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Commit files
         run: |
