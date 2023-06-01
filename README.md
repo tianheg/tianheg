@@ -13,7 +13,6 @@
 
 ## Projects I am working on:
 
-- [ext-saladict](https://github.com/tianheg/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [dart-sass](https://github.com/tianheg/dart-sass) - The reference implementation of Sass, written in Dart.
 - [.web](https://github.com/tianheg/.web) - Web related dotfiles
 - [godartsass](https://github.com/tianheg/godartsass) - Go API backed by the native Dart Sass Embedded executable.
@@ -23,3 +22,22 @@
 - [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [OpenHackathon-Web](https://github.com/tianheg/OpenHackathon-Web) - Progressive Web App of Open Hackathon platform based on Next.js
+- [randomMDN](https://github.com/tianheg/randomMDN) - randomMDN
+
+## Projects I contributed:
+
+- [mdn/learning-area](https://github.com/mdn/learning-area)
+- [sass/dart-sass](https://github.com/sass/dart-sass)
+- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo)
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+- [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell)
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+- [kaiyuanshe/OpenHackathon-Web](https://github.com/kaiyuanshe/OpenHackathon-Web)
+- [conge/conge.github.io](https://github.com/conge/conge.github.io)
+- [mdn/content](https://github.com/mdn/content)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page)
+- [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+- [bep/godartsass](https://github.com/bep/godartsass)
+- [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz)
+- [shaonianche/running_page](https://github.com/shaonianche/running_page)
