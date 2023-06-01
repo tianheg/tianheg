@@ -25,7 +25,7 @@ const readme = `<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 // getContributedRepos
 const graphqlWithAuth = graphql.defaults({
   headers: {
-    authorization: `token ${process.env.GITHUB_TOKEN}`,
+    authorization: `token ${process.env.ACCESS_TOKEN}`,
   },
 });
 
