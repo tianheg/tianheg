@@ -20,9 +20,9 @@
 - [godartsass](https://github.com/tianheg/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 - [dotfiles](https://github.com/tianheg/dotfiles) - 
 - [cloudflare-nextjs-starter](https://github.com/tianheg/cloudflare-nextjs-starter) - 
-- [TZP](https://github.com/tianheg/TZP) - TorZillaPrint: Firefox & Tor Browser fingerprint testing
 - [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
+- [OpenHackathon-Web](https://github.com/tianheg/OpenHackathon-Web) - Progressive Web App of Open Hackathon platform based on Next.js
 
 ## Projects I contributed:
 
