@@ -13,6 +13,7 @@
 
 ## Projects I am working on:
 
+- [hugo](https://github.com/tianheg/hugo) - The world’s fastest framework for building websites.
 - [kaiyuanshe.github.io](https://github.com/tianheg/kaiyuanshe.github.io) - The main site for kaiyuanshe
 - [deno-fresh-demo](https://github.com/tianheg/deno-fresh-demo) - 
 - [ext-saladict](https://github.com/tianheg/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -22,16 +23,17 @@
 - [dotfiles](https://github.com/tianheg/dotfiles) - 
 - [cloudflare-nextjs-starter](https://github.com/tianheg/cloudflare-nextjs-starter) - 
 - [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
-- [blog](https://github.com/tianheg/blog) - Blog Source Files
 
 ## Projects I contributed:
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo)
 - [mdn/learning-area](https://github.com/mdn/learning-area)
 - [sass/dart-sass](https://github.com/sass/dart-sass)
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo)
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell)
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
+- [kaiyuanshe/kaiyuanshe.github.io](https://github.com/kaiyuanshe/kaiyuanshe.github.io)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - [kaiyuanshe/OpenHackathon-Web](https://github.com/kaiyuanshe/OpenHackathon-Web)
 - [conge/conge.github.io](https://github.com/conge/conge.github.io)
