@@ -13,6 +13,7 @@
 
 ## Projects I am working on:
 
+- [NeteaseCloudMusicApi](https://github.com/tianheg/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [hugo](https://github.com/tianheg/hugo) - The world’s fastest framework for building websites.
 - [deno-fresh-demo](https://github.com/tianheg/deno-fresh-demo) - 
 - [ext-saladict](https://github.com/tianheg/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -22,7 +23,6 @@
 - [dotfiles](https://github.com/tianheg/dotfiles) - 
 - [cloudflare-nextjs-starter](https://github.com/tianheg/cloudflare-nextjs-starter) - 
 - [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
-- [blog](https://github.com/tianheg/blog) - Blog Source Files
 
 ## Projects I contributed:
 
