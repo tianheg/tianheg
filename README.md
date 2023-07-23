@@ -13,6 +13,8 @@
 
 ## Projects I am working on:
 
+- [coffeemasters-vanilla](https://github.com/tianheg/coffeemasters-vanilla) - 
+- [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
 - [NeteaseCloudMusicApi](https://github.com/tianheg/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [hugo](https://github.com/tianheg/hugo) - The world’s fastest framework for building websites.
 - [deno-fresh-demo](https://github.com/tianheg/deno-fresh-demo) - 
@@ -21,8 +23,6 @@
 - [.web](https://github.com/tianheg/.web) - Web related dotfiles
 - [godartsass](https://github.com/tianheg/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 - [dotfiles](https://github.com/tianheg/dotfiles) - 
-- [cloudflare-nextjs-starter](https://github.com/tianheg/cloudflare-nextjs-starter) - 
-- [cloudflare-radar](https://github.com/tianheg/cloudflare-radar) - Use Cloudflare Radar API do sth amazing
 
 ## Projects I contributed:
 
