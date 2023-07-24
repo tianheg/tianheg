@@ -13,6 +13,8 @@
 
 ## Projects I am working on:
 
+- [city](https://github.com/tianheg/city) - freeCodeCamp China community
+- [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
 - [coffeemasters-vanilla](https://github.com/tianheg/coffeemasters-vanilla) - 
 - [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
 - [NeteaseCloudMusicApi](https://github.com/tianheg/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
@@ -21,8 +23,6 @@
 - [ext-saladict](https://github.com/tianheg/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [dart-sass](https://github.com/tianheg/dart-sass) - The reference implementation of Sass, written in Dart.
 - [.web](https://github.com/tianheg/.web) - Web related dotfiles
-- [godartsass](https://github.com/tianheg/godartsass) - Go API backed by the native Dart Sass Embedded executable.
-- [dotfiles](https://github.com/tianheg/dotfiles) - 
 
 ## Projects I contributed:
 
