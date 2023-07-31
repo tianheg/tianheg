@@ -13,6 +13,7 @@
 ## Projects I am working on:
 
 - [city](https://github.com/tianheg/city) - freeCodeCamp China community
+- [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 - [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
 - [coffeemasters-vanilla](https://github.com/tianheg/coffeemasters-vanilla) - 
 - [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
@@ -21,7 +22,6 @@
 - [deno-fresh-demo](https://github.com/tianheg/deno-fresh-demo) - 
 - [ext-saladict](https://github.com/tianheg/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [dart-sass](https://github.com/tianheg/dart-sass) - The reference implementation of Sass, written in Dart.
-- [.web](https://github.com/tianheg/.web) - Web related dotfiles
 
 ## Projects I contributed:
 
