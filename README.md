@@ -33,6 +33,7 @@
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell)
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
 - [kaiyuanshe/kaiyuanshe.github.io](https://github.com/kaiyuanshe/kaiyuanshe.github.io)
+- [freeCodeCamp/chinese](https://github.com/freeCodeCamp/chinese)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - [kaiyuanshe/OpenHackathon-Web](https://github.com/kaiyuanshe/OpenHackathon-Web)
 - [conge/conge.github.io](https://github.com/conge/conge.github.io)
