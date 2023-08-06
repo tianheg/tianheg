@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [tasks](https://github.com/tianheg/tasks) - A simple Vue3 tasks app
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
 - [city](https://github.com/tianheg/city) - freeCodeCamp China community
 - [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
@@ -21,7 +22,6 @@
 - [NeteaseCloudMusicApi](https://github.com/tianheg/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [hugo](https://github.com/tianheg/hugo) - The world’s fastest framework for building websites.
 - [deno-fresh-demo](https://github.com/tianheg/deno-fresh-demo) - 
-- [ext-saladict](https://github.com/tianheg/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 
 ## Projects I contributed:
 
