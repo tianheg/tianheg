@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [meta](https://github.com/tianheg/meta) - tianheg的思维世界模型
 - [ChatGPT-Next-Web](https://github.com/tianheg/ChatGPT-Next-Web) - 
 - [tasks](https://github.com/tianheg/tasks) - A simple Vue3 tasks app
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
@@ -21,7 +22,6 @@
 - [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
 - [NeteaseCloudMusicApi](https://github.com/tianheg/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [hugo](https://github.com/tianheg/hugo) - The world’s fastest framework for building websites.
-- [deno-fresh-demo](https://github.com/tianheg/deno-fresh-demo) - 
 
 ## Projects I contributed:
 
