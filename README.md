@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [meta](https://github.com/tianheg/meta) - tianheg的思维世界模型
@@ -21,7 +22,6 @@
 - [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
 - [coffeemasters-vanilla](https://github.com/tianheg/coffeemasters-vanilla) - 
 - [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
-- [NeteaseCloudMusicApi](https://github.com/tianheg/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 ## Projects I contributed:
 
