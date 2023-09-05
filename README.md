@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [2023-dev-hangout-1-gallery](https://github.com/tianheg/2023-dev-hangout-1-gallery) - 现场照片——2023佐玩首届开发者交流会
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
@@ -21,7 +22,6 @@
 - [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 - [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
 - [coffeemasters-vanilla](https://github.com/tianheg/coffeemasters-vanilla) - 
-- [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
 
 ## Projects I contributed:
 
