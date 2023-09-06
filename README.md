@@ -12,6 +12,8 @@
 
 ## Projects I am working on:
 
+- [image-gallery-starter](https://github.com/tianheg/image-gallery-starter) - 
+- [nodegallerytutorial](https://github.com/tianheg/nodegallerytutorial) - Step by step tutorial to build a production-ready photo gallery Web Service using Node.JS and Dropbox.
 - [2023-dev-hangout-1-gallery](https://github.com/tianheg/2023-dev-hangout-1-gallery) - 现场照片——2023佐玩首届开发者交流会
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
@@ -20,8 +22,6 @@
 - [ChatGPT-Next-Web](https://github.com/tianheg/ChatGPT-Next-Web) - 
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
 - [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
-- [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
-- [coffeemasters-vanilla](https://github.com/tianheg/coffeemasters-vanilla) - 
 
 ## Projects I contributed:
 
