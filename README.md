@@ -26,7 +26,6 @@
 ## Projects I contributed:
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo)
-- [mdn/learning-area](https://github.com/mdn/learning-area)
 - [sass/dart-sass](https://github.com/sass/dart-sass)
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo)
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
