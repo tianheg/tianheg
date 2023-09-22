@@ -28,7 +28,6 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo)
 - [sass/dart-sass](https://github.com/sass/dart-sass)
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo)
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell)
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)
 - [kaiyuanshe/kaiyuanshe.github.io](https://github.com/kaiyuanshe/kaiyuanshe.github.io)
