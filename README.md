@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [running](https://github.com/tianheg/running) - Make your own running home page
 - [pomodoro-react-app](https://github.com/tianheg/pomodoro-react-app) - ⏲ React Pomodoro timer + Frontend Mentor's visual design
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
@@ -21,7 +22,6 @@
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
 - [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 - [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
-- [side-view](https://github.com/tianheg/side-view) - An experiment with opening mobile views of pages in the sidebar
 
 ## Projects I contributed:
 
