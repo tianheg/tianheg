@@ -12,13 +12,13 @@
 
 ## Projects I am working on:
 
+- [ChatGPT-Next-Web](https://github.com/tianheg/ChatGPT-Next-Web) - 
 - [running](https://github.com/tianheg/running) - Make your own running home page
 - [pomodoro-react-app](https://github.com/tianheg/pomodoro-react-app) - ⏲ React Pomodoro timer + Frontend Mentor's visual design
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [meta](https://github.com/tianheg/meta) - tianheg的思维世界模型
-- [ChatGPT-Next-Web](https://github.com/tianheg/ChatGPT-Next-Web) - 
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
 - [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 - [firefox-addon-starter](https://github.com/tianheg/firefox-addon-starter) - 
