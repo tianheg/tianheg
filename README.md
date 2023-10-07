@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [templates](https://github.com/tianheg/templates) - A collection of starter templates and examples for Cloudflare Workers and Pages
 - [ebook-reader](https://github.com/tianheg/ebook-reader) - Online e-book reader that supports Yomichan
 - [ChatGPT-Next-Web](https://github.com/tianheg/ChatGPT-Next-Web) - 
 - [running](https://github.com/tianheg/running) - Make your own running home page
@@ -21,7 +22,6 @@
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [meta](https://github.com/tianheg/meta) - tianheg的思维世界模型
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
-- [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 
 ## Projects I contributed:
 
