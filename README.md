@@ -20,8 +20,8 @@
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
-- [meta](https://github.com/tianheg/meta) - tianheg的思维世界模型
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
+- [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 
 ## Projects I contributed:
 
