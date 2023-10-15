@@ -12,6 +12,7 @@
 
 ## Projects I am working on:
 
+- [emacs-docs](https://github.com/tianheg/emacs-docs) - The documentation website Emacs deserves
 - [templates](https://github.com/tianheg/templates) - A collection of starter templates and examples for Cloudflare Workers and Pages
 - [ebook-reader](https://github.com/tianheg/ebook-reader) - Online e-book reader that supports Yomichan
 - [ChatGPT-Next-Web](https://github.com/tianheg/ChatGPT-Next-Web) - 
@@ -21,7 +22,6 @@
 - [feed](https://github.com/tianheg/feed) - Some sites I read often
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
-- [mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
 
 ## Projects I contributed:
 
