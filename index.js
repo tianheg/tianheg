@@ -9,4 +9,3 @@ const readme = `<h2>Hi, I'm tianheg 👋👨‍💻</h2>
 `;
 
 console.log(readme);
-});
