@@ -14,6 +14,7 @@
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
+- [请大家给我发一封邮件](https://tianheg.co/posts/please-send-me-an-email/)
 - [Hugo Add . Keyboard Shortcut](https://tianheg.co/posts/hugo-add-point-keyboard-shortcut/)
 - [光 - 王三溥](https://tianheg.co/posts/light-wang-sanpu/)
 - [幸福的芝麻 - 张浅潜](https://tianheg.co/posts/happy-sesame-zhang-qianqian/)
@@ -23,7 +24,6 @@
 - [Youth by Samuel Ullman](https://tianheg.co/posts/youth-by-samuel-ullman/)
 - [狗叫](https://tianheg.co/posts/dog-barking/)
 - [八九点钟的太阳 - 熊熊作业](https://tianheg.co/posts/eight-or-nine-oclock-sun-xiongxiong-zuoye/)
-- [双语写作一百天](https://tianheg.co/posts/one-hundred-days-of-bilingual-writing/)
 
 </td><td valign="top" width="55%">
 
