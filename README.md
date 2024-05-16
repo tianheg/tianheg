@@ -14,6 +14,8 @@
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
+- [Gallery site with AI-generated image captions](https://tianheg.co/posts/gallery-site-with-ai-generated-captions-en/)
+- [为图片网站添加 AI 生成的说明](https://tianheg.co/posts/gallery-site-with-ai-generated-captions/)
 - [请大家给我发一封邮件](https://tianheg.co/posts/please-send-me-an-email/)
 - [Hugo Add . Keyboard Shortcut](https://tianheg.co/posts/hugo-add-point-keyboard-shortcut/)
 - [光 - 王三溥](https://tianheg.co/posts/light-wang-sanpu/)
@@ -22,8 +24,6 @@
 - [What it's like to run](https://tianheg.co/posts/what-its-like-to-run-en/)
 - [跑步的感受](https://tianheg.co/posts/what-its-like-to-run/)
 - [Youth by Samuel Ullman](https://tianheg.co/posts/youth-by-samuel-ullman/)
-- [狗叫](https://tianheg.co/posts/dog-barking/)
-- [八九点钟的太阳 - 熊熊作业](https://tianheg.co/posts/eight-or-nine-oclock-sun-xiongxiong-zuoye/)
 
 </td><td valign="top" width="55%">
 
