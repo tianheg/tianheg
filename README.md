@@ -34,6 +34,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page)
+- [localfile-link/localfile-link](https://github.com/localfile-link/localfile-link)
 </td></tr></table>
 
 [![Update profile](https://github.com/tianheg/tianheg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/tianheg/tianheg/actions/workflows/main.yml)
