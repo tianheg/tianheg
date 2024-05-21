@@ -9,8 +9,7 @@
 
 ---
 
-![](https://github.com/tianheg/github-stats/raw/master/generated/overview.svg)
-![](https://github.com/tianheg/github-stats/raw/master/generated/languages.svg)
+![GitHub Stats Card](https://github-readme-stats.tianheg.org/api?username=tianheg&show_icons=true)
 
 <table><tr><td valign="top" width="55%">
 
