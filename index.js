@@ -59,9 +59,6 @@ const readmeContent =
   `${intro}
 ---
 
-![](https://github.com/tianheg/github-stats/raw/master/generated/overview.svg)
-![](https://github.com/tianheg/github-stats/raw/master/generated/languages.svg)
-
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
