@@ -27,7 +27,6 @@
 
 ### Recent contributions
 
-- [sass/dart-sass](https://github.com/sass/dart-sass)
 - [garritfra/garrit.xyz](https://github.com/garritfra/garrit.xyz)
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
