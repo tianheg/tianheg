@@ -12,6 +12,8 @@
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
+- [Father's hospital stay journal](https://tianheg.co/posts/fathers-hospital-stay-journal-en/)
+- [父亲住院笔记](https://tianheg.co/posts/fathers-hospital-stay-journal/)
 - [明天会更好 - 群星](https://tianheg.co/posts/mingtian-huigenghao-qunxing/)
 - [TailwindCSS Cannot Be Used Without PostCSS](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss-en/)
 - [TailwindCSS 在无 PostCSS 的情况下，无法使用](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss/)
@@ -20,8 +22,6 @@
 - [请大家给我发一封邮件](https://tianheg.co/posts/please-send-me-an-email/)
 - [Heartfelt talk with father](https://tianheg.co/posts/heartfelt-talk-with-father-en/)
 - [终于和父亲说了真心话](https://tianheg.co/posts/heartfelt-talk-with-father/)
-- [Hugo Add . Keyboard Shortcut](https://tianheg.co/posts/hugo-add-point-keyboard-shortcut/)
-- [光 - 王三溥](https://tianheg.co/posts/light-wang-sanpu/)
 
 </td><td valign="top" width="55%">
 
