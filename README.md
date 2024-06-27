@@ -12,6 +12,7 @@
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
+- [Img project fail to deploy on Cloudflare](https://tianheg.co/posts/img-project-fail-to-deploy-on-cf-en/)
 - [Father's hospital stay journal](https://tianheg.co/posts/fathers-hospital-stay-journal-en/)
 - [父亲住院笔记](https://tianheg.co/posts/fathers-hospital-stay-journal/)
 - [明天会更好 - 群星](https://tianheg.co/posts/mingtian-huigenghao-qunxing/)
@@ -21,7 +22,6 @@
 - [为图片网站添加 AI 生成的说明](https://tianheg.co/posts/gallery-site-with-ai-generated-captions/)
 - [请大家给我发一封邮件](https://tianheg.co/posts/please-send-me-an-email/)
 - [Heartfelt talk with father](https://tianheg.co/posts/heartfelt-talk-with-father-en/)
-- [终于和父亲说了真心话](https://tianheg.co/posts/heartfelt-talk-with-father/)
 
 </td><td valign="top" width="55%">
 
