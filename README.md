@@ -12,6 +12,8 @@
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
+- [VueConf CN 2024——Anthony 的开源之路](https://tianheg.co/posts/vueconf-cn-2024/)
+- [记第一次来深圳](https://tianheg.co/posts/first-time-in-shenzhen/)
 - [Img project fail to deploy on Cloudflare](https://tianheg.co/posts/img-project-fail-to-deploy-on-cf-en/)
 - [Father's hospital stay journal](https://tianheg.co/posts/fathers-hospital-stay-journal-en/)
 - [父亲住院笔记](https://tianheg.co/posts/fathers-hospital-stay-journal/)
@@ -20,8 +22,6 @@
 - [TailwindCSS 在无 PostCSS 的情况下，无法使用](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss/)
 - [Gallery site with AI-generated image captions](https://tianheg.co/posts/gallery-site-with-ai-generated-captions-en/)
 - [为图片网站添加 AI 生成的说明](https://tianheg.co/posts/gallery-site-with-ai-generated-captions/)
-- [请大家给我发一封邮件](https://tianheg.co/posts/please-send-me-an-email/)
-- [Heartfelt talk with father](https://tianheg.co/posts/heartfelt-talk-with-father-en/)
 
 </td><td valign="top" width="55%">
 
