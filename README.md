@@ -12,6 +12,7 @@
 <table><tr><td valign="top" width="55%">
 
 ### On my blog
+- [学习 C 编程语言](https://tianheg.co/posts/c-programming-language/)
 - [VueConf CN 2024——Anthony 的开源之路](https://tianheg.co/posts/vueconf-cn-2024/)
 - [记第一次来深圳](https://tianheg.co/posts/first-time-in-shenzhen/)
 - [Img project fail to deploy on Cloudflare](https://tianheg.co/posts/img-project-fail-to-deploy-on-cf-en/)
@@ -21,7 +22,6 @@
 - [TailwindCSS Cannot Be Used Without PostCSS](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss-en/)
 - [TailwindCSS 在无 PostCSS 的情况下，无法使用](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss/)
 - [Gallery site with AI-generated image captions](https://tianheg.co/posts/gallery-site-with-ai-generated-captions-en/)
-- [为图片网站添加 AI 生成的说明](https://tianheg.co/posts/gallery-site-with-ai-generated-captions/)
 
 </td><td valign="top" width="55%">
 
