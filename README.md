@@ -1,37 +1,31 @@
-<h2>Hi, I'm tianheg 👋👨‍💻</h2>
+## Greetings from China! 🇨🇳 
 
-- 📖 I enjoy [READing](https://read.tianheg.org/).
-- 📝 I record [notes, blog](https://tianheg.co).
-- 💰 [Support my work](https://tianheg.co/support).
-- [freeCodeCamp profile](https://www.freecodecamp.org/tianheg).
+### Recent Pull Requests
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- [chore: fix md syntax](https://github.com/localfile-link/localfile-link/pull/2) on [localfile-link/localfile-link](https://github.com/localfile-link/localfile-link) (2 months ago)
+- [guestbook: tianheg entry](https://github.com/garritfra/garrit.xyz/pull/490) on [garritfra/garrit.xyz](https://github.com/garritfra/garrit.xyz) (3 months ago)
+- [Fix capitalization errors](https://github.com/sissbruecker/linkding/pull/698) on [sissbruecker/linkding](https://github.com/sissbruecker/linkding) (3 months ago)
+- [style: use Tailwind CSS](https://github.com/yihong0618/running_page/pull/655) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (3 months ago)
+- [Sync with upstream](https://github.com/tianheg/running_page/pull/1) on [tianheg/running_page](https://github.com/tianheg/running_page) (3 months ago)
 
----
+### Some of my Active Projects
 
-<table><tr><td valign="top" width="55%">
+| Repo  | Description |
+| :---------------------------------------- | :------------------------------------------- |
+| [blog](https://github.com/tianheg/blog)|My blog powered by Hugo. |
+| [api](https://github.com/tianheg/api)| A fastify API to organize my reading, listening and watching.  |
+| [img](https://github.com/tianheg/img)| A gallery site to share my photos.|
 
-### On my blog
-- [学习 C 编程语言](https://tianheg.co/posts/c-programming-language/)
-- [VueConf CN 2024——Anthony 的开源之路](https://tianheg.co/posts/vueconf-cn-2024/)
-- [记第一次来深圳](https://tianheg.co/posts/first-time-in-shenzhen/)
-- [Img project fail to deploy on Cloudflare](https://tianheg.co/posts/img-project-fail-to-deploy-on-cf-en/)
-- [Father's hospital stay journal](https://tianheg.co/posts/fathers-hospital-stay-journal-en/)
-- [父亲住院笔记](https://tianheg.co/posts/fathers-hospital-stay-journal/)
-- [明天会更好 - 群星](https://tianheg.co/posts/mingtian-huigenghao-qunxing/)
-- [TailwindCSS Cannot Be Used Without PostCSS](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss-en/)
-- [TailwindCSS 在无 PostCSS 的情况下，无法使用](https://tianheg.co/posts/vite-vue-project-tailwindcss-postcss/)
-- [Gallery site with AI-generated image captions](https://tianheg.co/posts/gallery-site-with-ai-generated-captions-en/)
+### Contact info
+- Twitter: https://twitter.com/tianheg_/
+- Web: https://tianheg.co/
+- Blog: https://tianheg.co/
+- Mail: i@tianheg.co
 
-</td><td valign="top" width="55%">
+### GitHub stats
 
-### Recent contributions
-
-- [garritfra/garrit.xyz](https://github.com/garritfra/garrit.xyz)
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page)
-- [localfile-link/localfile-link](https://github.com/localfile-link/localfile-link)
-</td></tr></table>
-
-[![Update profile](https://github.com/tianheg/tianheg/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/tianheg/tianheg/actions/workflows/main.yml)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tianheg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tianheg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tianheg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tianheg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tianheg&theme=github)
