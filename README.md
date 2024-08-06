@@ -1,4 +1,4 @@
-## Greetings from China! 🇨🇳 
+## Greetings from China! :cn:
 
 ### Recent Pull Requests
 
