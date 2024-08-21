@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [[add] The New Internet](https://github.com/FreeCodeCamp-Chengdu/Wiki/pull/111) on [FreeCodeCamp-Chengdu/Wiki](https://github.com/FreeCodeCamp-Chengdu/Wiki) (2 weeks ago)
+- [[add] The New Internet](https://github.com/FreeCodeCamp-Chengdu/Wiki/pull/111) on [FreeCodeCamp-Chengdu/Wiki](https://github.com/FreeCodeCamp-Chengdu/Wiki) (3 weeks ago)
 - [chore: fix md syntax](https://github.com/localfile-link/localfile-link/pull/2) on [localfile-link/localfile-link](https://github.com/localfile-link/localfile-link) (3 months ago)
 - [guestbook: tianheg entry](https://github.com/garritfra/garrit.xyz/pull/490) on [garritfra/garrit.xyz](https://github.com/garritfra/garrit.xyz) (3 months ago)
 - [Fix capitalization errors](https://github.com/sissbruecker/linkding/pull/698) on [sissbruecker/linkding](https://github.com/sissbruecker/linkding) (4 months ago)
