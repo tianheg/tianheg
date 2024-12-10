@@ -5,8 +5,8 @@
 - [[add] The New Internet](https://github.com/FreeCodeCamp-Chengdu/Wiki/pull/111) on [FreeCodeCamp-Chengdu/Wiki](https://github.com/FreeCodeCamp-Chengdu/Wiki) (4 months ago)
 - [chore: fix md syntax](https://github.com/localfile-link/localfile-link/pull/2) on [localfile-link/localfile-link](https://github.com/localfile-link/localfile-link) (6 months ago)
 - [guestbook: tianheg entry](https://github.com/garritfra/garrit.xyz/pull/490) on [garritfra/garrit.xyz](https://github.com/garritfra/garrit.xyz) (7 months ago)
-- [Fix capitalization errors](https://github.com/sissbruecker/linkding/pull/698) on [sissbruecker/linkding](https://github.com/sissbruecker/linkding) (7 months ago)
-- [style: use Tailwind CSS](https://github.com/yihong0618/running_page/pull/655) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (7 months ago)
+- [Fix capitalization errors](https://github.com/sissbruecker/linkding/pull/698) on [sissbruecker/linkding](https://github.com/sissbruecker/linkding) (8 months ago)
+- [style: use Tailwind CSS](https://github.com/yihong0618/running_page/pull/655) on [yihong0618/running_page](https://github.com/yihong0618/running_page) (8 months ago)
 
 ### Some of my Active Projects
 
