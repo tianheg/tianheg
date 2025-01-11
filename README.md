@@ -19,7 +19,7 @@
 ### Contact info
 - Twitter: https://twitter.com/tianheg_/
 - Web: https://tianheg.co/
-- Blog: https://tianheg.co/
+- TG channel: https://t.me/s/readwd_tianhe
 - Mail: i@tianheg.co
 
 ### GitHub stats
