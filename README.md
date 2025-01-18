@@ -17,10 +17,11 @@
 | [img](https://github.com/tianheg/img)| A gallery site to share my photos.|
 
 ### Contact info
-- Twitter: https://twitter.com/tianheg_/
+
 - Web: https://tianheg.co/
-- TG channel: https://t.me/readwd_tianhe
 - Mail: i@tianheg.co
+- Mastodon: https://mastodon.social/@tianheg
+- Twitter: https://twitter.com/tianheg_/
 
 ### GitHub stats
 
