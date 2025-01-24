@@ -17,8 +17,7 @@
 
 - Web: https://tianheg.co/
 - Mail: i@tianheg.co
-- Mastodon: https://mastodon.social/@tianheg
-- Twitter: https://twitter.com/tianheg_/
+- GoToSocial: https://social.tianheg.co/@tianheg
 
 ### GitHub stats
 
